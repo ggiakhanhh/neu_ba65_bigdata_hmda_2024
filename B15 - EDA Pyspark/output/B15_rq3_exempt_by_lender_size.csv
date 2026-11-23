@@ -1,0 +1,9 @@
+﻿lender_size_bucket,exemption_status,n_apps,n_denied,denial_rate_pct,share_within_bucket_pct,bucket_total_apps,missing_classification_apps,missing_classification_share_pct,n_exempt_flag_missing,exempt_flag_missing_pct,n_partial_flag_missing,partial_flag_missing_pct,low_n
+Large,Non-exempt,2359123,505961,21.446995345304167,100.0,2359123,0,0.0,0,0.0,0,0.0,False
+Medium,Full exempt filer,38116,8906,23.365515793892328,2.564832403719532,1486101,0,0.0,0,0.0,0,0.0,False
+Medium,Non-exempt,1443702,255337,17.686267664656558,97.14696376625814,1486101,0,0.0,0,0.0,0,0.0,False
+Medium,Partial exempt filer,4283,355,8.288582769087089,0.2882038300223202,1486101,0,0.0,0,0.0,0,0.0,False
+Mega,Non-exempt,3892710,1180148,30.316874362590585,100.0,3892710,0,0.0,0,0.0,0,0.0,False
+Small/Community,Full exempt filer,202992,22415,11.042307085993537,50.909638100970575,398730,0,0.0,0,0.0,0,0.0,False
+Small/Community,Non-exempt,184729,28453,15.402562672888392,46.32934567251022,398730,0,0.0,0,0.0,0,0.0,False
+Small/Community,Partial exempt filer,11009,1701,15.450994640748478,2.761016226519198,398730,0,0.0,0,0.0,0,0.0,False

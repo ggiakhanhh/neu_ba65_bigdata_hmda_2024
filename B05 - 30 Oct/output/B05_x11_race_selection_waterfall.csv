@@ -1,0 +1,10 @@
+derived_race,f01_apps,f01_denial_rate_pct,s0_apps,s0_denial_rate_pct,fin_complete_apps,fin_retained_of_s0_pct,fin_denial_rate_pct,denial_shift_s0_to_fin_pp
+White,5550877,21.81,5360624,21.92,4699459,87.67,19.63,-2.29
+Race Not Available,1526078,27.76,1275240,29.66,1027404,80.57,25.87,-3.79
+Black or African American,762461,36.66,733103,36.8,615372,83.94,33.4,-3.4
+Asian,524984,21.27,478497,21.77,446231,93.26,20.68,-1.09
+Joint,189064,19.54,184536,19.58,162116,87.85,17.07,-2.51
+American Indian or Alaska Native,63158,37.03,61397,37.11,49896,81.27,32.82,-4.29
+2 or more minority races,21855,38.03,20920,38.18,17556,83.92,34.77,-3.41
+Native Hawaiian or Other Pacific Islander,21118,38.7,20249,38.89,17351,85.69,36.36,-2.53
+Free Form Text Only,2184,58.97,2098,58.34,1978,94.28,57.13,-1.21

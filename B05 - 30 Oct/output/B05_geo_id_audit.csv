@@ -1,0 +1,5 @@
+column_name,expected_regex,blank_cnt,upper_na_cnt,lower_na_cnt,exempt_cnt,code_99999_cnt,valid_format_cnt,v06_invalid_format_cnt
+state_code,^[A-Z]{2}$,0,215946,0,0,0,12043253,0
+county_code,^[0-9]{5}$,0,296190,0,0,0,11963009,0
+census_tract,^[0-9]{11}$,0,349023,1,0,0,11910175,0
+derived_msa_md,^[0-9]{5}$,0,0,0,0,1781406,10477793,0

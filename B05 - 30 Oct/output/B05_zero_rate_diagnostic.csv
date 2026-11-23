@@ -1,0 +1,3 @@
+lien_status,lien_label,total_apps,rate_missing_count,rate_valid_pos_count,rate_le0_v04_count,share_of_all_zero_rates_pct,zero_rate_pct_of_reported
+1,1 - First Lien,9401786,3186504,6211391,3891,4.66,0.063
+2,2 - Subordinate Lien,2857413,1333391,1444471,79551,95.34,5.22

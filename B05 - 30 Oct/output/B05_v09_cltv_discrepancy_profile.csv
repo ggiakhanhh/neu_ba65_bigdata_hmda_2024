@@ -1,0 +1,3 @@
+lien_status,lien_label,valid_s0_apps,p50_abs_diff_pp,p95_abs_diff_pp,within_10k_rounding_bounds_cnt,within_10k_rounding_pct,cltv_below_ltv_min_1pp_cnt,cltv_below_ltv_min_1pp_pct,cltv_below_ltv_min_5pp_cnt,cltv_above_ltv_max_10pp_cnt
+1,1 - First Lien,5033106,0.755,4.71,2970828,59.03,442881,8.8,19301,65857
+2,2 - Subordinate Lien,2194823,49.276,89.766,17731,0.81,13223,0.6,832,2084556

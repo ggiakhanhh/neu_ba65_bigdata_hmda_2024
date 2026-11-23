@@ -1,0 +1,5 @@
+group,n_rows,share_s0_pct,n_denied,denial_rate_pct,wilson_ci_lo,wilson_ci_hi,rate_shift_vs_s0_pp
+Non-duplicated rows,8128330,99.8976,1998618,24.588,24.559,24.618,-0.032
+Originals in duplicate clusters,3835,0.0471,2261,58.957,57.392,60.504,34.337
+Extra copies (flag_dup_extra),4499,0.0553,2397,53.279,51.818,54.733,28.659
+S0 without extra copies,8132165,99.9447,2000879,24.605,24.575,24.634,-0.015

@@ -1,0 +1,56 @@
+﻿variable,source_role_hint,availability_stage,leakage_assessment,in_s0_schema,status_source,evidence,time_availability_verified
+derived_race,group,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+derived_ethnicity,group,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+derived_sex,group,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+race_ethnicity,group,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+applicant_age,group,Application/context (provisional),Verify timing and eligibility,True,applicant_age_status,[Verified: B15 A3 code; schema],False
+has_coapplicant,group,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+loan_amount,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+property_value,financial_control,Application/context (provisional),Verify timing and eligibility,True,property_value_status,[Verified: B15 A3 code; schema],False
+income,financial_control,Application/context (provisional),Verify timing and eligibility,True,income_status,[Verified: B15 A3 code; schema],False
+loan_to_income,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+debt_to_income_ratio,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+dti_bin_fine,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+dti_bin_coarse,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+dti_point,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+combined_loan_to_value_ratio,financial_control,Application/context (provisional),Verify timing and eligibility,True,combined_loan_to_value_ratio_status,[Verified: B15 A3 code; schema],False
+ltv_calc,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+profile_cltv_discrepancy,financial_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+loan_type,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+loan_purpose,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+lien_status,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+occupancy_type,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+construction_method,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+total_units,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+derived_dwelling_category,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+derived_loan_product_type,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+conforming_loan_limit,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+open_end_line_of_credit,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+preapproval,product_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+submission_of_application,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+aus_1,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+aus_2,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+aus_3,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+aus_4,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+aus_5,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+applicant_credit_score_type,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+co_applicant_credit_score_type,diagnostic_only,Not established,Review before modeling,True,,[Verified: B15 A3 code; schema],False
+lender_size_bucket,lender_control,Application/context (provisional),Verify timing and eligibility,True,,[Verified: B15 A3 code; schema],False
+state_code,geo_control,Application/context (provisional),Verify timing and eligibility,True,state_code_status,[Verified: B15 A3 code; schema],False
+county_code,geo_control,Application/context (provisional),Verify timing and eligibility,True,county_code_status,[Verified: B15 A3 code; schema],False
+census_tract,geo_control,Application/context (provisional),Verify timing and eligibility,True,census_tract_status,[Verified: B15 A3 code; schema],False
+tract_minority_population_percent,geo_control,Application/context (provisional),Verify timing and eligibility,True,tract_minority_population_percent_status,[Verified: B15 A3 code; schema],False
+tract_to_msa_income_percentage,geo_control,Application/context (provisional),Verify timing and eligibility,True,tract_to_msa_income_percentage_status,[Verified: B15 A3 code; schema],False
+interest_rate,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,interest_rate_status,[Verified: B15 A3 code; schema],False
+rate_spread,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,rate_spread_status,[Verified: B15 A3 code; schema],False
+loan_term,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,loan_term_status,[Verified: B15 A3 code; schema],False
+total_loan_costs,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,total_loan_costs_status,[Verified: B15 A3 code; schema],False
+origination_charges,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,origination_charges_status,[Verified: B15 A3 code; schema],False
+discount_points,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,discount_points_status,[Verified: B15 A3 code; schema],False
+lender_credits,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,lender_credits_status,[Verified: B15 A3 code; schema],False
+purchaser_type,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,,[Verified: B15 A3 code; schema],False
+hoepa_status,post_decision_exclude,Post-decision / origination,Exclude: timing/leakage risk,True,,[Verified: B15 A3 code; schema],False
+denial_reason_1,diagnostic_only,After denial decision,Exclude: outcome-dependent,True,,[Verified: B15 A3 code; schema],False
+denial_reason_2,diagnostic_only,After denial decision,Exclude: outcome-dependent,True,,[Verified: B15 A3 code; schema],False
+denial_reason_3,diagnostic_only,After denial decision,Exclude: outcome-dependent,True,,[Verified: B15 A3 code; schema],False
+denial_reason_4,diagnostic_only,After denial decision,Exclude: outcome-dependent,True,,[Verified: B15 A3 code; schema],False

@@ -1,0 +1,11 @@
+﻿item,value
+S0 total applications,"8,136,664"
+S0 columns,169
+S0 denials,"2,003,276"
+S0 denial rate,24.62%
+Diagnostic sample rows,"499,297"
+Clean-all audit available,True
+Primary race variable,derived_race (9 CFPB categories)
+Primary reference group,White
+Supplementary race variable,"race_ethnicity (5 groups, Decision D-K)"
+Denial reasons excluded from controls,"denial_reason_1, denial_reason_2, denial_reason_3, denial_reason_4"

@@ -1,0 +1,11 @@
+table_id,what,pandas_impl,pyspark_equiv,known_semantic_differences,tolerance
+E1,S0 row count and overall denial rate,len(df_s0); df_s0['is_denied'].mean(),df.count(); df.agg(F.avg('is_denied')),Int8 nullable vs integer; S0 has no NULL is_denied,exact / 1e-9
+E2,Denial rate by derived_race (C1),"groupby('derived_race', observed=True, dropna=False)['is_denied'].agg(count, sum)","groupBy('derived_race').agg(F.count('*'), F.sum('is_denied'))",Pandas NULL group needs dropna=False; Spark keeps NULL group by default,exact counts; 1e-9
+E3,Race x loan_type counts / denied / rate (Proposal benchmark workload),"agg_counts(['derived_race','loan_type'])","groupBy('derived_race','loan_type').agg(...)",category dtype vs string; empty groups appear in Pandas if observed=False,exact
+E4,Missing share per key variable (A4),value_counts() on *_status columns,groupBy(status).count(),'blank' vs NULL vs 'NA' string tokens must match B06 definitions,exact
+E5,"Quantiles of loan_amount, income (B1)",numpy.quantile (linear interpolation),"approxQuantile(col, probs, 0.0) or percentile_approx",Interpolation differs from nearest-rank; relativeError 0 on a check run only,document difference
+E6,Lender x race counts (F6-F9 input),"groupby(['lender_code','derived_race']) after pd.factorize","groupBy('lei','derived_race') (IDs: dense_rank by volume)","Anonymous IDs differ; compare counts, not IDs",exact
+T1,Wilson CI,vectorised numpy wilson_ci(),F.when/F.sqrt column expressions,n = 0 gives NaN vs NULL,1e-9
+T2,"Bins (CLTV, LTI, income decile)","pd.cut(right=True for CLTV, right=False for LTI) / qcut",F.when chain (Bucketizer is left-closed); approxQuantile for decile edges,Edge convention and quantile ties differ,exact if edges identical
+T3,Kitagawa decomposition,pivot_table + vector arithmetic (kitagawa()),groupBy + pivot or join of group and reference aggregates,Pooling of D-M-failing strata done after aggregation in both,1e-9
+T4,Lender-cluster bootstrap (C1b),numpy multinomial weights x lender-race matrix,run on the aggregated table in Pandas (aggregation in Spark),"RNG differs; compare CIs, not replicates",interval overlap

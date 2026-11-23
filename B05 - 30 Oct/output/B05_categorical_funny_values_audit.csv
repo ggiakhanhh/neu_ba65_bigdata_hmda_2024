@@ -1,0 +1,8 @@
+column_name,anomaly_category,observed_token,affected_rows,pct_of_raw,rule_action
+debt_to_income_ratio,Title-case Exempt,'Exempt',287240,2.3431,"T02/T07: Case-insensitive match UPPER(c) == ""EXEMPT"""
+denial_reason_1,Undocumented Code in Dictionary,'1111',247789,2.0212,T06: FFIEC S.2155 Exemption code; kept as category Exempt [Hypothesis]
+applicant_ethnicity_1,Unexpected Blank in Primary Field,""""" (Empty string)",4983,0.0406,T01/X04: Convert to NULL; mapped to NA/Missing in X04
+applicant_race_1,Unexpected Blank in Primary Field,""""" (Empty string)",3038,0.0248,T01/X03: Convert to NULL; mapped to Race Not Available in X03
+co_applicant_ethnicity_1,Unexpected Blank in Primary Field,""""" (Empty string)",1463,0.0119,T01/X05: Convert to NULL; treated as NA state in X05
+co_applicant_race_1,Unexpected Blank in Primary Field,""""" (Empty string)",1014,0.0083,T01/X05: Convert to NULL; treated as NA state in X05
+census_tract,Lowercase NA,'na',1,8e-06,"T05: Standardize to NULL via UPPER(TRIM(c)) == ""NA"""

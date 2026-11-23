@@ -1,0 +1,6 @@
+Metric,Rows,Pct_of_F01
+F03 exclusion alone on F01,33569,0.3876
+F02 & F03 overlap on F01,56,0.0006
+Combined F02 + F03 excluded,525115,6.0624
+F02 code 1111 retained in S0,250691,2.8942
+F03 code 1111 retained in S0,250889,2.8965

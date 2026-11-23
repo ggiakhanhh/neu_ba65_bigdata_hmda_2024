@@ -1,0 +1,2 @@
+﻿frame_name,n_rows,n_columns,n_denied,denial_rate_pct,source_file
+S0 (Analytic Baseline),8136664,169,2003276,24.6204,B07_analytic.parquet

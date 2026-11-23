@@ -1,0 +1,6 @@
+relationship,variable_x,variable_y,sample_n,spearman_rho
+Loan Amount vs Income,loan_amount,income,480942,0.4553176195800026
+Loan Amount vs Property Value,loan_amount,property_value,465749,0.4984224654022098
+CLTV vs LTV,combined_loan_to_value_ratio,ltv_calc,443271,0.7076307760598428
+Interest Rate vs CLTV,interest_rate,combined_loan_to_value_ratio,328515,-0.27457636738444025
+Interest Rate vs Loan Term,interest_rate,loan_term,340133,-0.23455887897998712

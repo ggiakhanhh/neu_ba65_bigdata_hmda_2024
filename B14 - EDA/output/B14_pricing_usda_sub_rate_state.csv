@@ -1,0 +1,5 @@
+rate_state,n_loans,n_lenders,mean_n_exempt_28,share_pct
+missing: exempt,1,1,27.0,0.025879917184265012
+missing: na,2770,5,0.0,71.68737060041408
+reported but V04,2,1,0.0,0.051759834368530024
+usable,1091,6,0.0,28.234989648033125

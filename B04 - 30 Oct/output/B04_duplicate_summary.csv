@@ -1,0 +1,6 @@
+Metric,Count
+Unique 99-Column Duplicate Clusters,"20,229"
+Total Applications in Duplicate Groups,"46,984"
+Total Extra Copies (to be flagged in V10),"26,755"
+Maximum Cluster Size (Identical Rows),47
+Recommended Action,Retain in main sample S0; remove extras in robustness S1

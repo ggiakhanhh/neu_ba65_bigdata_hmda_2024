@@ -1,0 +1,9 @@
+Item,Finding,Artifact
+"99-Col Whitespace, Sentinels & T03",0 padded cells (T01); 0 unparseable numeric strings across 23 numeric cols (T03),B05_sentinels_99_columns.csv / B05_t03_numeric_cast_audit.csv
+Rule T06 & X09 (28 Doc Fields),"14 Dict-Verified 1111 cols; X09 n=28: 276,755 raw (241,108 S0), 1<=n<=27: 23,164 raw (15,292 S0); dr1=1111 in 78.04% of n=28",B05_denial_reason_1111_cooccurrence.csv / B05_x09_exempt_filer_distribution.csv
+Rule T08 & 4-State X05,"Applicant 8888 is 80.98% in purchased; 79,088 discordant rows (18,230 in S0); only 3,625 unresolved all-NA in S0",B05_age_sentinels_crosstab.csv / B05_coapplicant_agreement.csv
+Sequential Waterfall & V02,"Raw (12,259,199) -> F01 (8,661,779) -> F02 (8,170,177) -> S0 (8,136,664); V02 income<=0 is 60.5% denied (95.5% on negative income)",B05_waterfall_f01_f03.csv / B05_v02_income_by_action.csv
+Rule V04 & D-C Audit,95.34% of zero-rate loans in lien=2 (5.22% of reported); action=3 has 0 reported rates,B05_zero_rate_diagnostic.csv / B05_interest_rate_by_action.csv
+"4-Col T05, V06 & V07 Guard","1 lowercase na standardized; derived_msa_md=99999 is non_msa; V07 guard prevents 57,852 bidirectional divergence rows",B05_geo_id_audit.csv / B05_census_tract_anomaly.csv
+Per-Field T12 & Pre-RQ3 Tract Audit,"Tract_to_msa_income_pct has 57,954 zeros on pop>0 tracts; 96,065 S0 rows lack tract with 76.53% denial rate (2.14% Black, 2.83% AIAN)",B05_tract_domain_audit.csv / B05_tract_na_rq3_crosstab.csv
+V09 Profile & Corrected Dual S5,First-lien CLTV < min bound: FHA is 19.75% vs Conv 4.74%; Dual S5 (V04 kept): S5_all=24.18% vs S5_keep_v02=24.58%,B05_v09_cltv_by_loantype.csv / B05_s5_robustness_v_rules.csv

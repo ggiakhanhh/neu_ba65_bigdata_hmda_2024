@@ -1,0 +1,181 @@
+variable,derived_race,level,n_apps,n_denied,share_within_race_pct
+dti_cat,Black or African American,<20,27780,16075,3.7893720254861867
+dti_cat,Black or African American,20-<30,59753,19622,8.150696423285677
+dti_cat,Black or African American,30-<36,72282,18760,9.859733216205635
+dti_cat,Black or African American,36-40,92195,20868,12.575995460392333
+dti_cat,Black or African American,41-45,126567,26895,17.264559004669195
+dti_cat,Black or African American,46-49,106657,23831,14.548705979923694
+dti_cat,Black or African American,50-60,111112,45106,15.156396850101554
+dti_cat,Black or African American,>60,81296,76872,11.08930123052286
+dti_cat,Black or African American,MISSING: na,45472,18475,6.202675476706547
+dti_cat,Black or African American,MISSING: exempt,9989,3254,1.3625643327063182
+dti_cat,Race Not Available,<20,61382,20925,4.813368463975409
+dti_cat,Race Not Available,20-<30,136625,26673,10.713669583764625
+dti_cat,Race Not Available,30-<36,142689,24461,11.189187917568457
+dti_cat,Race Not Available,36-40,160527,26606,12.587983438411593
+dti_cat,Race Not Available,41-45,203817,34710,15.982638562153006
+dti_cat,Race Not Available,46-49,174129,30907,13.654606191775665
+dti_cat,Race Not Available,50-60,134448,54913,10.542956619930367
+dti_cat,Race Not Available,>60,99833,92834,7.828565603337411
+dti_cat,Race Not Available,MISSING: na,108612,61865,8.516985038110473
+dti_cat,Race Not Available,MISSING: exempt,53178,4333,4.170038580972993
+dti_cat,White,<20,296117,74692,5.523927811389122
+dti_cat,White,20-<30,733690,103298,13.68665289712541
+dti_cat,White,30-<36,731903,93412,13.653317225755808
+dti_cat,White,36-40,785909,97115,14.660774566543
+dti_cat,White,41-45,921224,117642,17.18501428191942
+dti_cat,White,46-49,699569,99058,13.05014117759425
+dti_cat,White,50-60,480150,177144,8.956979635206647
+dti_cat,White,>60,345816,314393,6.451040028175824
+dti_cat,White,MISSING: na,190633,75348,3.556171818803184
+dti_cat,White,MISSING: exempt,175613,23028,3.2759805574873373
+dti_cat,Asian,<20,20139,5586,4.20880381695183
+dti_cat,Asian,20-<30,53094,6165,11.095994332252866
+dti_cat,Asian,30-<36,61448,6258,12.84187779651701
+dti_cat,Asian,36-40,71688,6920,14.981912112301645
+dti_cat,Asian,41-45,91121,9312,19.04317059459098
+dti_cat,Asian,46-49,82970,9106,17.33971163873546
+dti_cat,Asian,50-60,36930,16567,7.717916726750638
+dti_cat,Asian,>60,39912,37651,8.341118126132452
+dti_cat,Asian,MISSING: na,15115,5573,3.1588494807699945
+dti_cat,Asian,MISSING: exempt,6080,1012,1.2706453749971265
+dti_cat,Joint,<20,8912,2202,4.829409979624572
+dti_cat,Joint,20-<30,26476,3609,14.347336021155764
+dti_cat,Joint,30-<36,27173,3367,14.725040100576582
+dti_cat,Joint,36-40,28179,3256,15.27019118220835
+dti_cat,Joint,41-45,31301,3705,16.962001994190835
+dti_cat,Joint,46-49,22996,3010,12.461525122469329
+dti_cat,Joint,50-60,18672,5689,10.11835089088308
+dti_cat,Joint,>60,9916,8545,5.373477261889279
+dti_cat,Joint,MISSING: na,7634,2215,4.136862184072484
+dti_cat,Joint,MISSING: exempt,3277,540,1.7758052629297265
+dti_cat,American Indian or Alaska Native,<20,3207,1890,5.223382249947066
+dti_cat,American Indian or Alaska Native,20-<30,6050,1890,9.853901656432726
+dti_cat,American Indian or Alaska Native,30-<36,6707,1629,10.923986513999056
+dti_cat,American Indian or Alaska Native,36-40,7980,1746,12.997377722038536
+dti_cat,American Indian or Alaska Native,41-45,10140,2039,16.515464924996337
+dti_cat,American Indian or Alaska Native,46-49,8381,1758,13.65050409629135
+dti_cat,American Indian or Alaska Native,50-60,7621,3355,12.412658598954346
+dti_cat,American Indian or Alaska Native,>60,7060,6735,11.498933172630585
+dti_cat,American Indian or Alaska Native,MISSING: na,3048,1438,4.964411941951561
+dti_cat,American Indian or Alaska Native,MISSING: exempt,1203,307,1.959379122758441
+dti_cat,Native Hawaiian or Other Pacific Islander,<20,774,432,3.8224109832584325
+dti_cat,Native Hawaiian or Other Pacific Islander,20-<30,1547,491,7.639883451034619
+dti_cat,Native Hawaiian or Other Pacific Islander,30-<36,1885,458,9.309101684033779
+dti_cat,Native Hawaiian or Other Pacific Islander,36-40,2382,507,11.76354387871006
+dti_cat,Native Hawaiian or Other Pacific Islander,41-45,3315,717,16.37117882364561
+dti_cat,Native Hawaiian or Other Pacific Islander,46-49,2953,617,14.583436219072548
+dti_cat,Native Hawaiian or Other Pacific Islander,50-60,2940,1194,14.519235517803349
+dti_cat,Native Hawaiian or Other Pacific Islander,>60,2974,2808,14.687145044199713
+dti_cat,Native Hawaiian or Other Pacific Islander,MISSING: na,1245,568,6.148451775396316
+dti_cat,Native Hawaiian or Other Pacific Islander,MISSING: exempt,234,82,1.1556126228455725
+dti_cat,2 or more minority races,<20,921,621,4.402485659655832
+dti_cat,2 or more minority races,20-<30,1703,547,8.140535372848948
+dti_cat,2 or more minority races,30-<36,2026,462,9.684512428298278
+dti_cat,2 or more minority races,36-40,2594,576,12.39961759082218
+dti_cat,2 or more minority races,41-45,3543,744,16.935946462715105
+dti_cat,2 or more minority races,46-49,3241,642,15.492351816443595
+dti_cat,2 or more minority races,50-60,2903,1248,13.876673040152964
+dti_cat,2 or more minority races,>60,2695,2548,12.882409177820268
+dti_cat,2 or more minority races,MISSING: na,1114,526,5.325047801147227
+dti_cat,2 or more minority races,MISSING: exempt,180,74,0.8604206500956023
+dti_cat,Free Form Text Only,<20,99,76,4.718779790276454
+dti_cat,Free Form Text Only,20-<30,170,71,8.102955195424213
+dti_cat,Free Form Text Only,30-<36,175,65,8.341277407054337
+dti_cat,Free Form Text Only,36-40,214,81,10.200190657769305
+dti_cat,Free Form Text Only,41-45,286,76,13.632030505243089
+dti_cat,Free Form Text Only,46-49,256,68,12.202097235462345
+dti_cat,Free Form Text Only,50-60,266,171,12.678741658722593
+dti_cat,Free Form Text Only,>60,557,552,26.549094375595807
+dti_cat,Free Form Text Only,MISSING: na,69,62,3.28884652049571
+dti_cat,Free Form Text Only,MISSING: exempt,6,2,0.2859866539561487
+cltv_bin,Black or African American,<=60,123489,58488,16.844699858000855
+cltv_bin,Black or African American,60-70,59110,23743,8.062987056389074
+cltv_bin,Black or African American,70-<80,80482,31462,10.978266355478016
+cltv_bin,Black or African American,=80,37052,10614,5.054132911746371
+cltv_bin,Black or African American,80-90,72014,26904,9.823176279458684
+cltv_bin,Black or African American,90-95,51252,14562,6.991104933413177
+cltv_bin,Black or African American,95-97,93844,17552,12.8009297465704
+cltv_bin,Black or African American,97-100,74084,16253,10.105537693884761
+cltv_bin,Black or African American,>100,47936,14916,6.538781044409858
+cltv_bin,Black or African American,MISSING / invalid,93840,55264,12.800384120648804
+cltv_bin,Race Not Available,<=60,267078,99797,20.94335183965371
+cltv_bin,Race Not Available,60-70,131056,41674,10.276967472789435
+cltv_bin,Race Not Available,70-<80,170960,53316,13.406103949060569
+cltv_bin,Race Not Available,=80,102367,17045,8.02727329757536
+cltv_bin,Race Not Available,80-90,139502,43170,10.93927417584141
+cltv_bin,Race Not Available,90-95,84576,17558,6.632163357485649
+cltv_bin,Race Not Available,95-97,95812,15203,7.513252407389982
+cltv_bin,Race Not Available,97-100,77837,14846,6.103713810733666
+cltv_bin,Race Not Available,>100,43017,15222,3.3732473887268277
+cltv_bin,Race Not Available,MISSING / invalid,163035,60396,12.784652300743389
+cltv_bin,White,<=60,1297087,319213,24.1965674145398
+cltv_bin,White,60-70,560115,120269,10.448690301726067
+cltv_bin,White,70-<80,717073,155155,13.376670327931972
+cltv_bin,White,=80,449412,49079,8.383576240377986
+cltv_bin,White,80-90,572288,122094,10.675772074295828
+cltv_bin,White,90-95,373137,57290,6.960700843782366
+cltv_bin,White,95-97,392451,43977,7.320994720017669
+cltv_bin,White,97-100,286736,45115,5.3489295276072335
+cltv_bin,White,>100,182603,52190,3.4063758249039666
+cltv_bin,White,MISSING / invalid,529722,210748,9.881722724817111
+cltv_bin,Asian,<=60,104199,29160,21.776312077191708
+cltv_bin,Asian,60-70,59644,13126,12.464863938540889
+cltv_bin,Asian,70-<80,83632,18053,17.478061513447315
+cltv_bin,Asian,=80,68362,6961,14.28681893512394
+cltv_bin,Asian,80-90,61792,13903,12.9137695743129
+cltv_bin,Asian,90-95,38253,6034,7.9944074884482035
+cltv_bin,Asian,95-97,22140,3381,4.626988256979668
+cltv_bin,Asian,97-100,13261,2423,2.771386236486331
+cltv_bin,Asian,>100,6738,3067,1.4081592988043812
+cltv_bin,Asian,MISSING / invalid,20476,8042,4.279232680664665
+cltv_bin,Joint,<=60,30235,6998,16.38433693154723
+cltv_bin,Joint,60-70,16518,3208,8.9510989725582
+cltv_bin,Joint,70-<80,23950,4670,12.978497420557506
+cltv_bin,Joint,=80,17483,1563,9.474032167165214
+cltv_bin,Joint,80-90,22222,4284,12.042094767416655
+cltv_bin,Joint,90-95,15494,2223,8.39619369662288
+cltv_bin,Joint,95-97,17593,1861,9.533641132353578
+cltv_bin,Joint,97-100,16684,2125,9.041054320024276
+cltv_bin,Joint,>100,6962,1829,3.7727055967399314
+cltv_bin,Joint,MISSING / invalid,17395,7377,9.426344995014523
+cltv_bin,American Indian or Alaska Native,<=60,12300,5708,20.033552127954135
+cltv_bin,American Indian or Alaska Native,60-70,5048,1867,8.221900092838412
+cltv_bin,American Indian or Alaska Native,70-<80,6659,2431,10.84580679837777
+cltv_bin,American Indian or Alaska Native,=80,3114,685,5.071909050930827
+cltv_bin,American Indian or Alaska Native,80-90,5871,2082,9.562356466928351
+cltv_bin,American Indian or Alaska Native,90-95,4211,1229,6.858641301692265
+cltv_bin,American Indian or Alaska Native,95-97,6194,1074,10.088440803296578
+cltv_bin,American Indian or Alaska Native,97-100,5139,1021,8.370115803703763
+cltv_bin,American Indian or Alaska Native,>100,3043,1029,4.956268221574344
+cltv_bin,American Indian or Alaska Native,MISSING / invalid,9818,5661,15.991009332703552
+cltv_bin,Native Hawaiian or Other Pacific Islander,<=60,4664,2233,23.033236209195515
+cltv_bin,Native Hawaiian or Other Pacific Islander,60-70,2056,827,10.153587831497852
+cltv_bin,Native Hawaiian or Other Pacific Islander,70-<80,2823,1159,13.941429206380562
+cltv_bin,Native Hawaiian or Other Pacific Islander,=80,1024,221,5.0570398538199415
+cltv_bin,Native Hawaiian or Other Pacific Islander,80-90,2154,826,10.637562348757964
+cltv_bin,Native Hawaiian or Other Pacific Islander,90-95,1262,378,6.232406538594499
+cltv_bin,Native Hawaiian or Other Pacific Islander,95-97,1580,279,7.802854461948738
+cltv_bin,Native Hawaiian or Other Pacific Islander,97-100,1631,317,8.054718751543286
+cltv_bin,Native Hawaiian or Other Pacific Islander,>100,894,364,4.415032841127957
+cltv_bin,Native Hawaiian or Other Pacific Islander,MISSING / invalid,2161,1270,10.672131957133686
+cltv_bin,2 or more minority races,<=60,3760,1981,17.97323135755258
+cltv_bin,2 or more minority races,60-70,1683,673,8.044933078393882
+cltv_bin,2 or more minority races,70-<80,2387,943,11.410133843212238
+cltv_bin,2 or more minority races,=80,1355,296,6.477055449330784
+cltv_bin,2 or more minority races,80-90,2273,803,10.865200764818356
+cltv_bin,2 or more minority races,90-95,1481,400,7.079349904397706
+cltv_bin,2 or more minority races,95-97,2030,398,9.703632887189293
+cltv_bin,2 or more minority races,97-100,2070,406,9.894837476099426
+cltv_bin,2 or more minority races,>100,1158,493,5.5353728489483744
+cltv_bin,2 or more minority races,MISSING / invalid,2723,1595,13.016252390057362
+cltv_bin,Free Form Text Only,<=60,897,595,42.75500476644423
+cltv_bin,Free Form Text Only,60-70,216,140,10.295519542421353
+cltv_bin,Free Form Text Only,70-<80,237,127,11.296472831267874
+cltv_bin,Free Form Text Only,=80,95,45,4.528122020972354
+cltv_bin,Free Form Text Only,80-90,197,108,9.389895138226883
+cltv_bin,Free Form Text Only,90-95,104,46,4.957102001906578
+cltv_bin,Free Form Text Only,95-97,168,57,8.007626310772164
+cltv_bin,Free Form Text Only,97-100,43,13,2.0495710200190658
+cltv_bin,Free Form Text Only,>100,50,25,2.3832221163012393
+cltv_bin,Free Form Text Only,MISSING / invalid,91,68,4.337464251668256

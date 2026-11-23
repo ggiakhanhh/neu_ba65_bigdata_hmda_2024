@@ -1,0 +1,11 @@
+Column,"Blank (Empty """")",Literal 'NA','Exempt','1111','8888','9999',Total Non-Standard
+income,0,1780434,0,77,11,27,1780549
+debt_to_income_ratio,0,4060236,287240,0,0,0,4347476
+combined_loan_to_value_ratio,0,4030609,287538,0,0,0,4318147
+loan_amount,0,0,0,0,0,0,0
+property_value,0,2455474,288601,0,0,0,2744075
+interest_rate,0,4232372,287523,0,0,0,4519895
+applicant_age,0,0,0,0,1463684,0,1463684
+co_applicant_age,0,0,0,0,1178955,6666402,7845357
+reverse_mortgage,0,0,0,288275,0,0,288275
+business_or_commercial_purpose,0,0,0,287489,0,0,287489

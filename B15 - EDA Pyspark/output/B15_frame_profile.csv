@@ -1,0 +1,171 @@
+﻿column_name,spark_data_type,nullable_in_schema,column_family,S0_row_count,S0_column_count,spark_partitions,parquet_size_MB
+activity_year,bigint,True,Other / Unclassified,8136664,170,16,518.65
+lei,string,True,Lender / Institution,8136664,170,16,518.65
+derived_msa_md,string,True,Other / Unclassified,8136664,170,16,518.65
+state_code,string,True,Geography / Context,8136664,170,16,518.65
+county_code,string,True,Geography / Context,8136664,170,16,518.65
+census_tract,string,True,Geography / Context,8136664,170,16,518.65
+conforming_loan_limit,string,True,Loan / Product,8136664,170,16,518.65
+derived_loan_product_type,string,True,Loan / Product,8136664,170,16,518.65
+derived_dwelling_category,string,True,Loan / Product,8136664,170,16,518.65
+derived_ethnicity,string,True,Applicant,8136664,170,16,518.65
+derived_race,string,True,Applicant,8136664,170,16,518.65
+derived_sex,string,True,Applicant,8136664,170,16,518.65
+action_taken,string,True,Outcome,8136664,170,16,518.65
+purchaser_type,string,True,Post-decision,8136664,170,16,518.65
+preapproval,string,True,Loan / Product,8136664,170,16,518.65
+loan_type,string,True,Loan / Product,8136664,170,16,518.65
+loan_purpose,string,True,Loan / Product,8136664,170,16,518.65
+lien_status,string,True,Loan / Product,8136664,170,16,518.65
+reverse_mortgage,string,True,Other / Unclassified,8136664,170,16,518.65
+open_end_line_of_credit,string,True,Loan / Product,8136664,170,16,518.65
+business_or_commercial_purpose,string,True,Other / Unclassified,8136664,170,16,518.65
+loan_amount,double,True,Financial,8136664,170,16,518.65
+combined_loan_to_value_ratio,double,True,Financial,8136664,170,16,518.65
+interest_rate,double,True,Post-decision,8136664,170,16,518.65
+rate_spread,double,True,Post-decision,8136664,170,16,518.65
+hoepa_status,string,True,Post-decision,8136664,170,16,518.65
+total_loan_costs,double,True,Post-decision,8136664,170,16,518.65
+total_points_and_fees,double,True,Other / Unclassified,8136664,170,16,518.65
+origination_charges,double,True,Post-decision,8136664,170,16,518.65
+discount_points,double,True,Post-decision,8136664,170,16,518.65
+lender_credits,double,True,Post-decision,8136664,170,16,518.65
+loan_term,bigint,True,Post-decision,8136664,170,16,518.65
+prepayment_penalty_term,bigint,True,Other / Unclassified,8136664,170,16,518.65
+intro_rate_period,bigint,True,Other / Unclassified,8136664,170,16,518.65
+negative_amortization,string,True,Other / Unclassified,8136664,170,16,518.65
+interest_only_payment,string,True,Other / Unclassified,8136664,170,16,518.65
+balloon_payment,string,True,Other / Unclassified,8136664,170,16,518.65
+other_nonamortizing_features,string,True,Other / Unclassified,8136664,170,16,518.65
+property_value,double,True,Financial,8136664,170,16,518.65
+construction_method,string,True,Loan / Product,8136664,170,16,518.65
+occupancy_type,string,True,Loan / Product,8136664,170,16,518.65
+manufactured_home_secured_property_type,string,True,Other / Unclassified,8136664,170,16,518.65
+manufactured_home_land_property_interest,string,True,Other / Unclassified,8136664,170,16,518.65
+total_units,string,True,Loan / Product,8136664,170,16,518.65
+multifamily_affordable_units,bigint,True,Other / Unclassified,8136664,170,16,518.65
+income,double,True,Financial,8136664,170,16,518.65
+debt_to_income_ratio,string,True,Financial,8136664,170,16,518.65
+applicant_credit_score_type,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_credit_score_type,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_1,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_2,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_3,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_4,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_5,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_1,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_2,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_3,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_4,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_5,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_ethnicity_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_ethnicity_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_1,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_2,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_3,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_4,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_5,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_1,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_2,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_3,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_4,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_5,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_race_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_race_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_sex,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_sex,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_sex_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_sex_observed,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_age,string,True,Applicant,8136664,170,16,518.65
+co_applicant_age,string,True,Other / Unclassified,8136664,170,16,518.65
+applicant_age_above_62,string,True,Other / Unclassified,8136664,170,16,518.65
+co_applicant_age_above_62,string,True,Other / Unclassified,8136664,170,16,518.65
+submission_of_application,string,True,Other / Unclassified,8136664,170,16,518.65
+initially_payable_to_institution,string,True,Other / Unclassified,8136664,170,16,518.65
+aus_1,string,True,Other / Unclassified,8136664,170,16,518.65
+aus_2,string,True,Other / Unclassified,8136664,170,16,518.65
+aus_3,string,True,Other / Unclassified,8136664,170,16,518.65
+aus_4,string,True,Other / Unclassified,8136664,170,16,518.65
+aus_5,string,True,Other / Unclassified,8136664,170,16,518.65
+denial_reason_1,string,True,Denial diagnostics,8136664,170,16,518.65
+denial_reason_2,string,True,Denial diagnostics,8136664,170,16,518.65
+denial_reason_3,string,True,Denial diagnostics,8136664,170,16,518.65
+denial_reason_4,string,True,Denial diagnostics,8136664,170,16,518.65
+tract_population,bigint,True,Other / Unclassified,8136664,170,16,518.65
+tract_minority_population_percent,double,True,Geography / Context,8136664,170,16,518.65
+ffiec_msa_md_median_family_income,bigint,True,Other / Unclassified,8136664,170,16,518.65
+tract_to_msa_income_percentage,double,True,Geography / Context,8136664,170,16,518.65
+tract_owner_occupied_units,bigint,True,Other / Unclassified,8136664,170,16,518.65
+tract_one_to_four_family_homes,bigint,True,Other / Unclassified,8136664,170,16,518.65
+tract_median_age_of_housing_units,bigint,True,Other / Unclassified,8136664,170,16,518.65
+row_id,bigint,True,Other / Unclassified,8136664,170,16,518.65
+bucket,tinyint,True,Other / Unclassified,8136664,170,16,518.65
+income_status,string,True,Data quality / Status,8136664,170,16,518.65
+property_value_status,string,True,Data quality / Status,8136664,170,16,518.65
+combined_loan_to_value_ratio_status,string,True,Data quality / Status,8136664,170,16,518.65
+interest_rate_status,string,True,Data quality / Status,8136664,170,16,518.65
+rate_spread_status,string,True,Data quality / Status,8136664,170,16,518.65
+total_loan_costs_status,string,True,Data quality / Status,8136664,170,16,518.65
+total_points_and_fees_status,string,True,Data quality / Status,8136664,170,16,518.65
+origination_charges_status,string,True,Data quality / Status,8136664,170,16,518.65
+discount_points_status,string,True,Data quality / Status,8136664,170,16,518.65
+lender_credits_status,string,True,Data quality / Status,8136664,170,16,518.65
+loan_term_status,string,True,Data quality / Status,8136664,170,16,518.65
+prepayment_penalty_term_status,string,True,Data quality / Status,8136664,170,16,518.65
+intro_rate_period_status,string,True,Data quality / Status,8136664,170,16,518.65
+multifamily_affordable_units_status,string,True,Data quality / Status,8136664,170,16,518.65
+lei_status,string,True,Data quality / Status,8136664,170,16,518.65
+state_code_status,string,True,Data quality / Status,8136664,170,16,518.65
+county_code_status,string,True,Data quality / Status,8136664,170,16,518.65
+census_tract_status,string,True,Data quality / Status,8136664,170,16,518.65
+derived_msa_md_status,string,True,Data quality / Status,8136664,170,16,518.65
+dti_status,string,True,Data quality / Status,8136664,170,16,518.65
+dti_bin_fine,string,True,Financial,8136664,170,16,518.65
+dti_bin_coarse,string,True,Financial,8136664,170,16,518.65
+dti_point,double,True,Financial,8136664,170,16,518.65
+has_coapplicant,tinyint,True,Applicant,8136664,170,16,518.65
+flag_coapp_discordant,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+applicant_age_status,string,True,Data quality / Status,8136664,170,16,518.65
+co_applicant_age_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_population_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_minority_population_percent_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_owner_occupied_units_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_one_to_four_family_homes_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_median_age_of_housing_units_status,string,True,Data quality / Status,8136664,170,16,518.65
+tract_to_msa_income_percentage_status,string,True,Data quality / Status,8136664,170,16,518.65
+ffiec_msa_md_median_family_income_status,string,True,Data quality / Status,8136664,170,16,518.65
+flag_tract_income_zero,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_loan_amount_invalid,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_income_nonpositive,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_income_zero,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_income_negative,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_cltv_range,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_rate_le0,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_rate_gt25,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_rate_range,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_term_range,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_id_format,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_geo_mismatch,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_denial_inconsistent,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+is_denied,tinyint,True,Outcome,8136664,170,16,518.65
+in_decision_sample,boolean,True,Other / Unclassified,8136664,170,16,518.65
+race_group,string,True,Other / Unclassified,8136664,170,16,518.65
+ethnicity_group,string,True,Other / Unclassified,8136664,170,16,518.65
+loan_to_income,double,True,Financial,8136664,170,16,518.65
+ltv_calc,double,True,Financial,8136664,170,16,518.65
+log_loan_amount,double,True,Other / Unclassified,8136664,170,16,518.65
+log_income,double,True,Other / Unclassified,8136664,170,16,518.65
+fin_complete,boolean,True,Sample / Selection,8136664,170,16,518.65
+profile_cltv_discrepancy,double,True,Financial,8136664,170,16,518.65
+n_exempt_28,tinyint,True,Other / Unclassified,8136664,170,16,518.65
+is_exempt_filer,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+is_partial_exempt,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+flag_dr1_is_1111,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+lender_n_apps,int,True,Other / Unclassified,8136664,170,16,518.65
+lender_size_bucket,string,True,Lender / Institution,8136664,170,16,518.65
+dup_group_size,int,True,Other / Unclassified,8136664,170,16,518.65
+flag_dup_extra,boolean,True,Quality / Derived flags,8136664,170,16,518.65
+in_s0,boolean,True,Other / Unclassified,8136664,170,16,518.65
+in_s5_all,boolean,True,Sample / Selection,8136664,170,16,518.65
+in_s5_keep_v02,boolean,True,Sample / Selection,8136664,170,16,518.65
+race_ethnicity,string,False,Applicant,8136664,170,16,518.65

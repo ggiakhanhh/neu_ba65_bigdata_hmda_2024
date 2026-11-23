@@ -1,0 +1,33 @@
+metric,value,source
+Black: valid states,41.0,F1
+Black: states with gap > 0,40.0,F1
+Black: states with gap > 10 pp,32.0,F1
+Black: states with CI including 0,0.0,F1
+Black: top MSAs valid,25.0,F2
+Black: top MSAs with gap > 0,25.0,F2
+Black: top MSAs with CI below 0,0.0,F2
+Black: top MSAs with CI above 0,25.0,F2
+Black: top MSA median gap (pp),13.14,F2
+Asian: valid states,39.0,F1
+Asian: states with gap > 0,24.0,F1
+Asian: states with gap > 10 pp,0.0,F1
+Asian: states with CI including 0,12.0,F1
+Asian: top MSAs valid,25.0,F2
+Asian: top MSAs with gap > 0,12.0,F2
+Asian: top MSAs with CI below 0,10.0,F2
+Asian: top MSAs with CI above 0,9.0,F2
+Asian: top MSA median gap (pp),-0.1,F2
+Black: gap in Mega lenders (pp),13.63,F6
+Black: gap in Large lenders (pp),14.19,F6
+Black: gap in Medium lenders (pp),13.17,F6
+Black: gap in Small/Community lenders (pp),15.57,F6
+Asian: gap in Mega lenders (pp),-1.25,F6
+Asian: gap in Large lenders (pp),-0.82,F6
+Asian: gap in Medium lenders (pp),-0.04,F6
+Asian: gap in Small/Community lenders (pp),0.28,F6
+Black or African American: % of applications in tract minority share >= 50%,57.01,F3
+Black or African American: % of applications in low/moderate-income tract,34.06,F3
+White: % of applications in tract minority share >= 50%,17.9,F3
+White: % of applications in low/moderate-income tract,17.15,F3
+Full exempt filers in S0 (rows),241108.0,F10
+Full exempt filers in Small/Community (% of all full exempt),84.19,F10

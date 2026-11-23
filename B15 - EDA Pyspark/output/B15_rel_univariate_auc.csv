@@ -1,0 +1,7 @@
+variable,sample_n,denied_n,non_denied_n,auc_raw,auc_oriented,direction,importance_rank
+loan_amount,499297,123094,376203,0.34679822048141457,0.6532017795185854,Lower values associated with denial,1
+income,480942,120010,360932,0.35345627483612124,0.6465437251638788,Lower values associated with denial,2
+ltv_calc,465749,109866,355883,0.41442382512631437,0.5855761748736856,Lower values associated with denial,3
+combined_loan_to_value_ratio,447541,101554,345987,0.43266897714285785,0.5673310228571422,Lower values associated with denial,4
+property_value,465749,109866,355883,0.4348456304445545,0.5651543695554455,Lower values associated with denial,5
+loan_to_income,475340,116614,358726,0.45177533946758636,0.5482246605324137,Lower values associated with denial,6

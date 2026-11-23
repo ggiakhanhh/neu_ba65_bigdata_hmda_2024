@@ -1,0 +1,8 @@
+column_name,code,label,pct_on_denied,pct_on_not_denied,code_gap_pp,code_flag,note
+purchaser_type,0,Not applicable,100.0,43.78,56.22,True,Code '0' (Not applicable) is 100.00% on denied vs 43.78% on non-denied
+hoepa_status,3,Not applicable,100.0,11.24,88.76,True,Code '3' (Not applicable) is 100.00% on denied vs 11.24% on non-denied
+denial_reason_1,10,Not applicable,0.0,97.22,97.22,True,Code '10' (Not applicable) is 0.00% on denied vs 97.22% on non-denied
+aus_1,6,Not applicable,66.16,33.79,32.37,False,Code '6' (Not applicable) is 66.16% on denied vs 33.79% on non-denied
+aus_1,1111,Exempt,1.65,3.57,1.92,False,Code '1111' (Exempt) is 1.65% on denied vs 3.57% on non-denied
+applicant_credit_score_type,9,Not applicable,11.99,9.22,2.78,False,Code '9' (Not applicable) is 11.99% on denied vs 9.22% on non-denied
+applicant_credit_score_type,1111,Exempt,1.64,3.55,1.91,False,Code '1111' (Exempt) is 1.64% on denied vs 3.55% on non-denied

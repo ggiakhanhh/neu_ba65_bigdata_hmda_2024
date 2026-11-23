@@ -1,0 +1,85 @@
+﻿group_slice,variable,n_total,n_value,n_na,n_exempt,n_non_msa,n_blank,pct_value,pct_na,pct_exempt
+Overall S0,income,8136664,7839422,297242,0,0,0,96.35,3.65,0.0
+Overall S0,debt_to_income_ratio,8136664,7513962,372942,249760,0,0,92.35,4.58,3.07
+Overall S0,combined_loan_to_value_ratio,8136664,7297403,589291,249970,0,0,89.69,7.24,3.07
+Overall S0,property_value,8136664,7590865,294934,250865,0,0,93.29,3.62,3.08
+Overall S0,interest_rate,8136664,5898721,1987894,250049,0,0,72.5,24.43,3.07
+Overall S0,census_tract,8136664,8040599,96065,0,0,0,98.82,1.18,0.0
+Overall S0,derived_msa_md,8136664,7031764,0,0,1104900,0,100.0,0.0,0.0
+Exempt Filers (n_exempt_28 == 28),income,241108,197607,43501,0,0,0,81.96,18.04,0.0
+Exempt Filers (n_exempt_28 == 28),debt_to_income_ratio,241108,0,0,241108,0,0,0.0,0.0,100.0
+Exempt Filers (n_exempt_28 == 28),combined_loan_to_value_ratio,241108,0,0,241108,0,0,0.0,0.0,100.0
+Exempt Filers (n_exempt_28 == 28),property_value,241108,0,0,241108,0,0,0.0,0.0,100.0
+Exempt Filers (n_exempt_28 == 28),interest_rate,241108,0,0,241108,0,0,0.0,0.0,100.0
+Exempt Filers (n_exempt_28 == 28),census_tract,241108,235989,5119,0,0,0,97.88,2.12,0.0
+Exempt Filers (n_exempt_28 == 28),derived_msa_md,241108,168841,0,0,72267,0,100.0,0.0,0.0
+Non-Exempt Filers (n_exempt_28 < 28),income,7895556,7641815,253741,0,0,0,96.79,3.21,0.0
+Non-Exempt Filers (n_exempt_28 < 28),debt_to_income_ratio,7895556,7513962,372942,8652,0,0,95.17,4.72,0.11
+Non-Exempt Filers (n_exempt_28 < 28),combined_loan_to_value_ratio,7895556,7297403,589291,8862,0,0,92.42,7.46,0.11
+Non-Exempt Filers (n_exempt_28 < 28),property_value,7895556,7590865,294934,9757,0,0,96.14,3.74,0.12
+Non-Exempt Filers (n_exempt_28 < 28),interest_rate,7895556,5898721,1987894,8941,0,0,74.71,25.18,0.11
+Non-Exempt Filers (n_exempt_28 < 28),census_tract,7895556,7804610,90946,0,0,0,98.85,1.15,0.0
+Non-Exempt Filers (n_exempt_28 < 28),derived_msa_md,7895556,6862923,0,0,1032633,0,100.0,0.0,0.0
+Race: 2 or more minority races,income,20920,20150,770,0,0,0,96.32,3.68,0.0
+Race: 2 or more minority races,debt_to_income_ratio,20920,19626,1114,180,0,0,93.81,5.33,0.86
+Race: 2 or more minority races,combined_loan_to_value_ratio,20920,18197,2543,180,0,0,86.98,12.16,0.86
+Race: 2 or more minority races,property_value,20920,19316,1423,181,0,0,92.33,6.8,0.87
+Race: 2 or more minority races,interest_rate,20920,12792,7948,180,0,0,61.15,37.99,0.86
+Race: 2 or more minority races,census_tract,20920,20631,289,0,0,0,98.62,1.38,0.0
+Race: 2 or more minority races,derived_msa_md,20920,19128,0,0,1792,0,100.0,0.0,0.0
+Race: American Indian or Alaska Native,income,61397,59236,2161,0,0,0,96.48,3.52,0.0
+Race: American Indian or Alaska Native,debt_to_income_ratio,61397,57146,3048,1203,0,0,93.08,4.96,1.96
+Race: American Indian or Alaska Native,combined_loan_to_value_ratio,61397,51579,8611,1207,0,0,84.01,14.03,1.97
+Race: American Indian or Alaska Native,property_value,61397,57229,2951,1217,0,0,93.21,4.81,1.98
+Race: American Indian or Alaska Native,interest_rate,61397,37568,22619,1210,0,0,61.19,36.84,1.97
+Race: American Indian or Alaska Native,census_tract,61397,59660,1737,0,0,0,97.17,2.83,0.0
+Race: American Indian or Alaska Native,derived_msa_md,61397,48938,0,0,12459,0,100.0,0.0,0.0
+Race: Asian,income,478497,467884,10613,0,0,0,97.78,2.22,0.0
+Race: Asian,debt_to_income_ratio,478497,457302,15115,6080,0,0,95.57,3.16,1.27
+Race: Asian,combined_loan_to_value_ratio,478497,458021,14393,6083,0,0,95.72,3.01,1.27
+Race: Asian,property_value,478497,459869,12519,6109,0,0,96.11,2.62,1.28
+Race: Asian,interest_rate,478497,368385,104022,6090,0,0,76.99,21.74,1.27
+Race: Asian,census_tract,478497,476965,1532,0,0,0,99.68,0.32,0.0
+Race: Asian,derived_msa_md,478497,467255,0,0,11242,0,100.0,0.0,0.0
+Race: Black or African American,income,733103,699799,33304,0,0,0,95.46,4.54,0.0
+Race: Black or African American,debt_to_income_ratio,733103,677642,45472,9989,0,0,92.43,6.2,1.36
+Race: Black or African American,combined_loan_to_value_ratio,733103,639263,83897,9943,0,0,87.2,11.44,1.36
+Race: Black or African American,property_value,733103,682096,40976,10031,0,0,93.04,5.59,1.37
+Race: Black or African American,interest_rate,733103,454625,268482,9996,0,0,62.01,36.62,1.36
+Race: Black or African American,census_tract,733103,717399,15704,0,0,0,97.86,2.14,0.0
+Race: Black or African American,derived_msa_md,733103,668563,0,0,64540,0,100.0,0.0,0.0
+Race: Free Form Text Only,income,2098,2071,27,0,0,0,98.71,1.29,0.0
+Race: Free Form Text Only,debt_to_income_ratio,2098,2023,69,6,0,0,96.43,3.29,0.29
+Race: Free Form Text Only,combined_loan_to_value_ratio,2098,2007,85,6,0,0,95.66,4.05,0.29
+Race: Free Form Text Only,property_value,2098,2047,44,7,0,0,97.57,2.1,0.33
+Race: Free Form Text Only,interest_rate,2098,869,1223,6,0,0,41.42,58.29,0.29
+Race: Free Form Text Only,census_tract,2098,2078,20,0,0,0,99.05,0.95,0.0
+Race: Free Form Text Only,derived_msa_md,2098,1974,0,0,124,0,100.0,0.0,0.0
+Race: Joint,income,184536,177552,6984,0,0,0,96.22,3.78,0.0
+Race: Joint,debt_to_income_ratio,184536,173625,7634,3277,0,0,94.09,4.14,1.78
+Race: Joint,combined_loan_to_value_ratio,184536,167141,14112,3283,0,0,90.57,7.65,1.78
+Race: Joint,property_value,184536,175095,6143,3298,0,0,94.88,3.33,1.79
+Race: Joint,interest_rate,184536,145310,35941,3285,0,0,78.74,19.48,1.78
+Race: Joint,census_tract,184536,182404,2132,0,0,0,98.84,1.16,0.0
+Race: Joint,derived_msa_md,184536,164636,0,0,19900,0,100.0,0.0,0.0
+Race: Native Hawaiian or Other Pacific Islander,income,20249,19395,854,0,0,0,95.78,4.22,0.0
+Race: Native Hawaiian or Other Pacific Islander,debt_to_income_ratio,20249,18770,1245,234,0,0,92.7,6.15,1.16
+Race: Native Hawaiian or Other Pacific Islander,combined_loan_to_value_ratio,20249,18088,1927,234,0,0,89.33,9.52,1.16
+Race: Native Hawaiian or Other Pacific Islander,property_value,20249,18835,1178,236,0,0,93.02,5.82,1.17
+Race: Native Hawaiian or Other Pacific Islander,interest_rate,20249,12188,7826,235,0,0,60.19,38.65,1.16
+Race: Native Hawaiian or Other Pacific Islander,census_tract,20249,19870,379,0,0,0,98.13,1.87,0.0
+Race: Native Hawaiian or Other Pacific Islander,derived_msa_md,20249,18212,0,0,2037,0,100.0,0.0,0.0
+Race: Race Not Available,income,1275240,1179250,95990,0,0,0,92.47,7.53,0.0
+Race: Race Not Available,debt_to_income_ratio,1275240,1113450,108612,53178,0,0,87.31,8.52,4.17
+Race: Race Not Available,combined_loan_to_value_ratio,1275240,1112205,109906,53129,0,0,87.22,8.62,4.17
+Race: Race Not Available,property_value,1275240,1167052,54905,53283,0,0,91.52,4.31,4.18
+Race: Race Not Available,interest_rate,1275240,845458,376612,53170,0,0,66.3,29.53,4.17
+Race: Race Not Available,census_tract,1275240,1259799,15441,0,0,0,98.79,1.21,0.0
+Race: Race Not Available,derived_msa_md,1275240,1137267,0,0,137973,0,100.0,0.0,0.0
+Race: White,income,5360624,5214085,146539,0,0,0,97.27,2.73,0.0
+Race: White,debt_to_income_ratio,5360624,4994378,190633,175613,0,0,93.17,3.56,3.28
+Race: White,combined_loan_to_value_ratio,5360624,4830902,353817,175905,0,0,90.12,6.6,3.28
+Race: White,property_value,5360624,5009326,174795,176503,0,0,93.45,3.26,3.29
+Race: White,interest_rate,5360624,4021526,1163221,175877,0,0,75.02,21.7,3.28
+Race: White,census_tract,5360624,5301793,58831,0,0,0,98.9,1.1,0.0
+Race: White,derived_msa_md,5360624,4505791,0,0,854833,0,100.0,0.0,0.0

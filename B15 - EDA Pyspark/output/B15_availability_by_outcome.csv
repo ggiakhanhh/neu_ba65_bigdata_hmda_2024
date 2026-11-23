@@ -1,0 +1,56 @@
+﻿variable,role_hint,availability_basis,denied_n,denied_nonmissing_n,denied_nonmissing_pct,non_denied_n,non_denied_nonmissing_n,non_denied_nonmissing_pct,availability_gap_pp,gap_gt_50pp,missing_100pct_among_denied,review_flag
+interest_rate,post_decision_exclude,B07 status field: interest_rate_status,2003276,0,0.0,6133388,5898721,96.17394171051954,96.17394171051954,True,True,True
+rate_spread,post_decision_exclude,B07 status field: rate_spread_status,2003276,0,0.0,6133388,5700460,92.94145421747328,92.94145421747328,True,True,True
+origination_charges,post_decision_exclude,B07 status field: origination_charges_status,2003276,0,0.0,6133388,4407032,71.85314217851536,71.85314217851536,True,True,True
+total_loan_costs,post_decision_exclude,B07 status field: total_loan_costs_status,2003276,0,0.0,6133388,4352449,70.9632098931292,70.9632098931292,True,True,True
+discount_points,post_decision_exclude,B07 status field: discount_points_status,2003276,0,0.0,6133388,2354862,38.394146921733956,38.394146921733956,False,True,True
+dti_point,financial_control,Raw non-null check,2003276,522512,26.082876248704622,6133388,3121622,50.895557235250735,24.81268098654611,False,False,False
+lender_credits,post_decision_exclude,B07 status field: lender_credits_status,2003276,0,0.0,6133388,1414263,23.05843034877298,23.05843034877298,False,True,True
+denial_reason_2,diagnostic_only,Raw non-null check,2003276,439088,21.91849750109321,6133388,0,0.0,21.91849750109321,False,False,False
+profile_cltv_discrepancy,financial_control,Raw non-null check,2003276,1603720,80.05487012273895,6133388,5624209,91.69824247218666,11.643372349447711,False,False,False
+combined_loan_to_value_ratio,financial_control,B07 status field: combined_loan_to_value_ratio_status,2003276,1652855,82.50760254702797,6133388,5644548,92.02985364695662,9.522251099928658,False,False,False
+property_value,financial_control,B07 status field: property_value_status,2003276,1788949,89.30117467588092,6133388,5801916,94.59561338692416,5.294438711043248,False,False,False
+ltv_calc,financial_control,Raw non-null check,2003276,1788949,89.30117467588092,6133388,5801916,94.59561338692416,5.294438711043248,False,False,False
+denial_reason_3,diagnostic_only,Raw non-null check,2003276,81744,4.080516114604278,6133388,0,0.0,4.080516114604278,False,False,False
+tract_to_msa_income_percentage,geo_control,B07 status field: tract_to_msa_income_percentage_status,2003276,1929754,96.32991160479135,6133388,6110845,99.63245436290677,3.302542758115412,False,False,False
+census_tract,geo_control,B07 status field: census_tract_status,2003276,1929754,96.32991160479135,6133388,6110845,99.63245436290677,3.302542758115412,False,False,False
+tract_minority_population_percent,geo_control,B07 status field: tract_minority_population_percent_status,2003276,1929754,96.32991160479135,6133388,6110845,99.63245436290677,3.302542758115412,False,False,False
+aus_2,diagnostic_only,Raw non-null check,2003276,70595,3.52397772448729,6133388,416905,6.797303545772744,3.273325821285454,False,False,False
+dti_bin_fine,financial_control,Raw non-null check,2003276,1804574,90.0811470810812,6133388,5709388,93.08701813744703,3.0058710563658386,False,False,False
+dti_bin_coarse,financial_control,Raw non-null check,2003276,1804574,90.0811470810812,6133388,5709388,93.08701813744703,3.0058710563658386,False,False,False
+debt_to_income_ratio,financial_control,Raw non-null check,2003276,1804574,90.0811470810812,6133388,5709388,93.08701813744703,3.0058710563658386,False,False,False
+loan_term,post_decision_exclude,B07 status field: loan_term_status,2003276,1877567,93.72482873053937,6133388,5884813,95.94718286206579,2.222354131526416,False,False,False
+county_code,geo_control,B07 status field: county_code_status,2003276,1959193,97.79945449353959,6133388,6112384,99.65754653056354,1.8580920370239506,False,False,False
+income,financial_control,B07 status field: income_status,2003276,1953078,97.4942044930404,6133388,5886344,95.97214459610251,1.5220598969378885,False,False,False
+state_code,geo_control,B07 status field: state_code_status,2003276,1972179,98.44769267939115,6133388,6119760,99.77780632824795,1.33011364885679,False,False,False
+aus_4,diagnostic_only,Raw non-null check,2003276,6457,0.3223220365042061,6133388,69885,1.1394191921332875,0.8170971556290813,False,False,False
+aus_5,diagnostic_only,Raw non-null check,2003276,4709,0.23506496358964019,6133388,64036,1.0440559116755699,0.8089909480859298,False,False,False
+denial_reason_4,diagnostic_only,Raw non-null check,2003276,15310,0.7642481615114443,6133388,0,0.0,0.7642481615114443,False,False,False
+aus_3,diagnostic_only,Raw non-null check,2003276,27884,1.3919200349826983,6133388,125831,2.0515741055351464,0.6596540705524481,False,False,False
+loan_to_income,financial_control,Raw non-null check,2003276,1897871,94.73836855231131,6133388,5850290,95.38431287895042,0.645944326639114,False,False,False
+applicant_age,group,B07 status field: applicant_age_status,2003276,2000702,99.87151046585693,6133388,6090206,99.29595192738499,0.575558538471932,False,False,False
+has_coapplicant,group,Raw non-null check,2003276,2003000,99.98622256743455,6133388,6130039,99.94539722580733,0.040825341627215295,False,False,False
+derived_sex,group,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+derived_ethnicity,group,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+derived_race,group,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+lien_status,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+loan_purpose,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+loan_type,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+race_ethnicity,group,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+loan_amount,financial_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+total_units,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+construction_method,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+occupancy_type,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+lender_size_bucket,lender_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+co_applicant_credit_score_type,diagnostic_only,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+preapproval,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+submission_of_application,diagnostic_only,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+aus_1,diagnostic_only,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+derived_dwelling_category,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+conforming_loan_limit,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+applicant_credit_score_type,diagnostic_only,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+derived_loan_product_type,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+open_end_line_of_credit,product_control,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+purchaser_type,post_decision_exclude,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+hoepa_status,post_decision_exclude,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False
+denial_reason_1,diagnostic_only,Raw non-null check,2003276,2003276,100.0,6133388,6133388,100.0,0.0,False,False,False

@@ -1,0 +1,4 @@
+other_28_status,total_rows,dr1_is_1111,dr1_is_10_na,dr1_is_1_to_9
+n_exempt_28 == 0,11959280,22885,9823088,2113307
+n_exempt_28 == 28 (All 28 Documented Cols Exempt),276755,215992,54114,6649
+1 <= n_exempt_28 <= 27,23164,8912,13277,975

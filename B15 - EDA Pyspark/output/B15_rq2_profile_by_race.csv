@@ -1,0 +1,208 @@
+record_type,race,variable,category,n,q1,median,q3,share
+numeric_summary,Free Form Text Only,income,,2071,50.0,77.0,115.0,
+numeric_summary,White,income,,5214085,67.0,103.0,160.0,
+numeric_summary,American Indian or Alaska Native,income,,59236,55.0,81.0,121.0,
+numeric_summary,Native Hawaiian or Other Pacific Islander,income,,19395,63.0,95.0,140.0,
+numeric_summary,2 or more minority races,income,,20150,61.0,92.0,139.0,
+numeric_summary,Joint,income,,177552,96.0,140.0,209.0,
+numeric_summary,Black or African American,income,,699799,57.0,84.0,125.0,
+numeric_summary,Race Not Available,income,,1179250,69.0,107.0,169.0,
+numeric_summary,Asian,income,,467884,95.0,146.0,228.0,
+numeric_summary,Free Form Text Only,loan_amount,,2098,55000.0,105000.0,245000.0,
+numeric_summary,White,loan_amount,,5360624,85000.0,195000.0,335000.0,
+numeric_summary,American Indian or Alaska Native,loan_amount,,61397,75000.0,155000.0,285000.0,
+numeric_summary,Native Hawaiian or Other Pacific Islander,loan_amount,,20249,75000.0,175000.0,345000.0,
+numeric_summary,2 or more minority races,loan_amount,,20920,75000.0,205000.0,355000.0,
+numeric_summary,Joint,loan_amount,,184536,125000.0,285000.0,455000.0,
+numeric_summary,Black or African American,loan_amount,,733103,75000.0,175000.0,315000.0,
+numeric_summary,Race Not Available,loan_amount,,1275240,95000.0,215000.0,375000.0,
+numeric_summary,Asian,loan_amount,,478497,185000.0,345000.0,555000.0,
+numeric_summary,Free Form Text Only,loan_to_income,,2038,0.7432432432432432,1.5210526315789474,3.1818181818181817,
+numeric_summary,White,loan_to_income,,5159598,0.8208955223880597,1.9090909090909092,3.0555555555555554,
+numeric_summary,American Indian or Alaska Native,loan_to_income,,58359,0.8823529411764706,2.0833333333333335,3.36734693877551,
+numeric_summary,Native Hawaiian or Other Pacific Islander,loan_to_income,,19099,0.7716049382716049,1.875,3.4684684684684686,
+numeric_summary,2 or more minority races,loan_to_income,,19847,0.9281437125748503,2.282608695652174,3.581081081081081,
+numeric_summary,Joint,loan_to_income,,176136,0.9050445103857567,2.081081081081081,3.048780487804878,
+numeric_summary,Black or African American,loan_to_income,,690366,0.9016393442622951,2.236842105263158,3.4444444444444446,
+numeric_summary,Race Not Available,loan_to_income,,1160150,0.8762886597938144,2.0673076923076925,3.306451612903226,
+numeric_summary,Asian,loan_to_income,,462568,1.2681159420289856,2.5390625,3.6194029850746268,
+numeric_summary,Free Form Text Only,property_value,,2047,255000.0,385000.0,585000.0,
+numeric_summary,White,property_value,,5009326,255000.0,375000.0,575000.0,
+numeric_summary,American Indian or Alaska Native,property_value,,57229,195000.0,315000.0,465000.0,
+numeric_summary,Native Hawaiian or Other Pacific Islander,property_value,,18835,295000.0,435000.0,615000.0,
+numeric_summary,2 or more minority races,property_value,,19316,245000.0,375000.0,575000.0,
+numeric_summary,Joint,property_value,,175095,305000.0,455000.0,685000.0,
+numeric_summary,Black or African American,property_value,,682096,205000.0,315000.0,455000.0,
+numeric_summary,Race Not Available,property_value,,1167052,275000.0,405000.0,625000.0,
+numeric_summary,Asian,property_value,,459869,405000.0,595000.0,885000.0,
+categorical_distribution,2 or more minority races,dti_bin_coarse,50-60,2903,,,,0.13876673040152965
+categorical_distribution,2 or more minority races,dti_bin_coarse,46-49,3241,,,,0.15492351816443595
+categorical_distribution,2 or more minority races,dti_bin_coarse,>60,2695,,,,0.12882409177820267
+categorical_distribution,2 or more minority races,dti_bin_coarse,30-<36,2026,,,,0.0968451242829828
+categorical_distribution,2 or more minority races,dti_bin_coarse,20-<30,1703,,,,0.08140535372848948
+categorical_distribution,2 or more minority races,dti_bin_coarse,36-40,2594,,,,0.1239961759082218
+categorical_distribution,2 or more minority races,dti_bin_coarse,<20,921,,,,0.04402485659655832
+categorical_distribution,2 or more minority races,dti_bin_coarse,Missing,1294,,,,0.0618546845124283
+categorical_distribution,2 or more minority races,dti_bin_coarse,41-45,3543,,,,0.16935946462715104
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,36-40,7980,,,,0.12997377722038536
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,20-<30,6050,,,,0.09853901656432724
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,>60,7060,,,,0.11498933172630585
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,46-49,8381,,,,0.1365050409629135
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,Missing,4251,,,,0.06923791064710003
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,<20,3207,,,,0.05223382249947066
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,41-45,10140,,,,0.16515464924996334
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,50-60,7621,,,,0.12412658598954346
+categorical_distribution,American Indian or Alaska Native,dti_bin_coarse,30-<36,6707,,,,0.10923986513999055
+categorical_distribution,Asian,dti_bin_coarse,<20,20139,,,,0.0420880381695183
+categorical_distribution,Asian,dti_bin_coarse,30-<36,61448,,,,0.1284187779651701
+categorical_distribution,Asian,dti_bin_coarse,20-<30,53094,,,,0.11095994332252866
+categorical_distribution,Asian,dti_bin_coarse,36-40,71688,,,,0.14981912112301646
+categorical_distribution,Asian,dti_bin_coarse,41-45,91121,,,,0.1904317059459098
+categorical_distribution,Asian,dti_bin_coarse,46-49,82970,,,,0.17339711638735458
+categorical_distribution,Asian,dti_bin_coarse,50-60,36930,,,,0.07717916726750639
+categorical_distribution,Asian,dti_bin_coarse,Missing,21195,,,,0.04429494855767121
+categorical_distribution,Asian,dti_bin_coarse,>60,39912,,,,0.08341118126132452
+categorical_distribution,Black or African American,dti_bin_coarse,<20,27780,,,,0.037893720254861867
+categorical_distribution,Black or African American,dti_bin_coarse,36-40,92195,,,,0.12575995460392334
+categorical_distribution,Black or African American,dti_bin_coarse,30-<36,72282,,,,0.09859733216205635
+categorical_distribution,Black or African American,dti_bin_coarse,41-45,126567,,,,0.17264559004669194
+categorical_distribution,Black or African American,dti_bin_coarse,>60,81296,,,,0.11089301230522859
+categorical_distribution,Black or African American,dti_bin_coarse,Missing,55461,,,,0.07565239809412866
+categorical_distribution,Black or African American,dti_bin_coarse,20-<30,59753,,,,0.08150696423285678
+categorical_distribution,Black or African American,dti_bin_coarse,46-49,106657,,,,0.14548705979923693
+categorical_distribution,Black or African American,dti_bin_coarse,50-60,111112,,,,0.15156396850101556
+categorical_distribution,Free Form Text Only,dti_bin_coarse,>60,557,,,,0.26549094375595805
+categorical_distribution,Free Form Text Only,dti_bin_coarse,50-60,266,,,,0.12678741658722592
+categorical_distribution,Free Form Text Only,dti_bin_coarse,30-<36,175,,,,0.08341277407054337
+categorical_distribution,Free Form Text Only,dti_bin_coarse,41-45,286,,,,0.1363203050524309
+categorical_distribution,Free Form Text Only,dti_bin_coarse,20-<30,170,,,,0.08102955195424213
+categorical_distribution,Free Form Text Only,dti_bin_coarse,<20,99,,,,0.04718779790276454
+categorical_distribution,Free Form Text Only,dti_bin_coarse,Missing,75,,,,0.03574833174451859
+categorical_distribution,Free Form Text Only,dti_bin_coarse,36-40,214,,,,0.10200190657769304
+categorical_distribution,Free Form Text Only,dti_bin_coarse,46-49,256,,,,0.12202097235462345
+categorical_distribution,Joint,dti_bin_coarse,41-45,31301,,,,0.16962001994190837
+categorical_distribution,Joint,dti_bin_coarse,30-<36,27173,,,,0.1472504010057658
+categorical_distribution,Joint,dti_bin_coarse,46-49,22996,,,,0.12461525122469329
+categorical_distribution,Joint,dti_bin_coarse,<20,8912,,,,0.04829409979624572
+categorical_distribution,Joint,dti_bin_coarse,Missing,10911,,,,0.05912667447002211
+categorical_distribution,Joint,dti_bin_coarse,36-40,28179,,,,0.1527019118220835
+categorical_distribution,Joint,dti_bin_coarse,>60,9916,,,,0.05373477261889279
+categorical_distribution,Joint,dti_bin_coarse,20-<30,26476,,,,0.14347336021155763
+categorical_distribution,Joint,dti_bin_coarse,50-60,18672,,,,0.1011835089088308
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,41-45,3315,,,,0.16371178823645613
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,>60,2974,,,,0.14687145044199715
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,20-<30,1547,,,,0.0763988345103462
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,46-49,2953,,,,0.14583436219072546
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,<20,774,,,,0.03822410983258433
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,50-60,2940,,,,0.14519235517803347
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,30-<36,1885,,,,0.0930910168403378
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,36-40,2382,,,,0.1176354387871006
+categorical_distribution,Native Hawaiian or Other Pacific Islander,dti_bin_coarse,Missing,1479,,,,0.07304064398241888
+categorical_distribution,Race Not Available,dti_bin_coarse,Missing,161790,,,,0.12687023619083468
+categorical_distribution,Race Not Available,dti_bin_coarse,36-40,160527,,,,0.12587983438411593
+categorical_distribution,Race Not Available,dti_bin_coarse,>60,99833,,,,0.0782856560333741
+categorical_distribution,Race Not Available,dti_bin_coarse,20-<30,136625,,,,0.10713669583764625
+categorical_distribution,Race Not Available,dti_bin_coarse,41-45,203817,,,,0.15982638562153006
+categorical_distribution,Race Not Available,dti_bin_coarse,<20,61382,,,,0.048133684639754086
+categorical_distribution,Race Not Available,dti_bin_coarse,46-49,174129,,,,0.13654606191775664
+categorical_distribution,Race Not Available,dti_bin_coarse,30-<36,142689,,,,0.11189187917568458
+categorical_distribution,Race Not Available,dti_bin_coarse,50-60,134448,,,,0.10542956619930366
+categorical_distribution,White,dti_bin_coarse,41-45,921224,,,,0.1718501428191942
+categorical_distribution,White,dti_bin_coarse,46-49,699569,,,,0.1305014117759425
+categorical_distribution,White,dti_bin_coarse,Missing,366246,,,,0.06832152376290522
+categorical_distribution,White,dti_bin_coarse,30-<36,731903,,,,0.13653317225755807
+categorical_distribution,White,dti_bin_coarse,20-<30,733690,,,,0.1368665289712541
+categorical_distribution,White,dti_bin_coarse,>60,345816,,,,0.06451040028175824
+categorical_distribution,White,dti_bin_coarse,<20,296117,,,,0.05523927811389122
+categorical_distribution,White,dti_bin_coarse,50-60,480150,,,,0.08956979635206648
+categorical_distribution,White,dti_bin_coarse,36-40,785909,,,,0.14660774566543
+categorical_distribution,2 or more minority races,cltv_bin,95,855,,,,0.04086998087954111
+categorical_distribution,2 or more minority races,cltv_bin,<80,7830,,,,0.374282982791587
+categorical_distribution,2 or more minority races,cltv_bin,100,1530,,,,0.0731357552581262
+categorical_distribution,2 or more minority races,cltv_bin,80,1355,,,,0.06477055449330783
+categorical_distribution,2 or more minority races,cltv_bin,"(80,95)",2899,,,,0.1385755258126195
+categorical_distribution,2 or more minority races,cltv_bin,>100,1158,,,,0.05535372848948375
+categorical_distribution,2 or more minority races,cltv_bin,97,364,,,,0.01739961759082218
+categorical_distribution,2 or more minority races,cltv_bin,"(95,97)",1666,,,,0.07963671128107075
+categorical_distribution,2 or more minority races,cltv_bin,Missing,2723,,,,0.13016252390057362
+categorical_distribution,2 or more minority races,cltv_bin,"(97,100)",540,,,,0.02581261950286807
+categorical_distribution,American Indian or Alaska Native,cltv_bin,"(97,100)",2065,,,,0.03363356515790674
+categorical_distribution,American Indian or Alaska Native,cltv_bin,80,3111,,,,0.05067022818704497
+categorical_distribution,American Indian or Alaska Native,cltv_bin,97,1125,,,,0.018323370848738536
+categorical_distribution,American Indian or Alaska Native,cltv_bin,100,3074,,,,0.0500675928791309
+categorical_distribution,American Indian or Alaska Native,cltv_bin,95,2486,,,,0.04049057771552356
+categorical_distribution,American Indian or Alaska Native,cltv_bin,"(95,97)",5069,,,,0.08256103718422725
+categorical_distribution,American Indian or Alaska Native,cltv_bin,>100,3043,,,,0.04956268221574344
+categorical_distribution,American Indian or Alaska Native,cltv_bin,"(80,95)",7596,,,,0.12371939997068261
+categorical_distribution,American Indian or Alaska Native,cltv_bin,<80,24010,,,,0.39106145251396646
+categorical_distribution,American Indian or Alaska Native,cltv_bin,Missing,9818,,,,0.1599100933270355
+categorical_distribution,Asian,cltv_bin,95,24990,,,,0.05222603276509571
+categorical_distribution,Asian,cltv_bin,"(97,100)",4763,,,,0.00995408539656466
+categorical_distribution,Asian,cltv_bin,"(95,97)",16433,,,,0.034342953038368054
+categorical_distribution,Asian,cltv_bin,80,68321,,,,0.14278250438351756
+categorical_distribution,Asian,cltv_bin,100,8498,,,,0.01775977696829865
+categorical_distribution,Asian,cltv_bin,<80,247516,,,,0.5172780602595209
+categorical_distribution,Asian,cltv_bin,"(80,95)",75055,,,,0.15685573786251533
+categorical_distribution,Asian,cltv_bin,>100,6738,,,,0.014081592988043812
+categorical_distribution,Asian,cltv_bin,Missing,20476,,,,0.042792326806646644
+categorical_distribution,Asian,cltv_bin,97,5707,,,,0.01192692953142862
+categorical_distribution,Black or African American,cltv_bin,"(80,95)",94053,,,,0.12829438700973805
+categorical_distribution,Black or African American,cltv_bin,"(95,97)",79975,,,,0.10909108269915688
+categorical_distribution,Black or African American,cltv_bin,"(97,100)",24933,,,,0.03401022775790032
+categorical_distribution,Black or African American,cltv_bin,>100,47936,,,,0.06538781044409858
+categorical_distribution,Black or African American,cltv_bin,100,49151,,,,0.06704514918094728
+categorical_distribution,Black or African American,cltv_bin,80,37038,,,,0.050522232210207844
+categorical_distribution,Black or African American,cltv_bin,Missing,93840,,,,0.12800384120648803
+categorical_distribution,Black or African American,cltv_bin,95,29213,,,,0.039848425118980554
+categorical_distribution,Black or African American,cltv_bin,<80,263095,,,,0.3588786296059353
+categorical_distribution,Black or African American,cltv_bin,97,13869,,,,0.01891821476654713
+categorical_distribution,Free Form Text Only,cltv_bin,95,55,,,,0.026215443279313633
+categorical_distribution,Free Form Text Only,cltv_bin,>100,50,,,,0.023832221163012392
+categorical_distribution,Free Form Text Only,cltv_bin,100,29,,,,0.013822688274547188
+categorical_distribution,Free Form Text Only,cltv_bin,Missing,91,,,,0.043374642516682556
+categorical_distribution,Free Form Text Only,cltv_bin,<80,1350,,,,0.6434699714013346
+categorical_distribution,Free Form Text Only,cltv_bin,"(95,97)",125,,,,0.05958055290753098
+categorical_distribution,Free Form Text Only,cltv_bin,97,43,,,,0.020495710200190656
+categorical_distribution,Free Form Text Only,cltv_bin,"(80,95)",246,,,,0.11725452812202097
+categorical_distribution,Free Form Text Only,cltv_bin,80,95,,,,0.04528122020972355
+categorical_distribution,Free Form Text Only,cltv_bin,"(97,100)",14,,,,0.00667302192564347
+categorical_distribution,Joint,cltv_bin,97,3172,,,,0.017189057961590152
+categorical_distribution,Joint,cltv_bin,80,17479,,,,0.09471864568431092
+categorical_distribution,Joint,cltv_bin,"(95,97)",14421,,,,0.07814735336194564
+categorical_distribution,Joint,cltv_bin,>100,6962,,,,0.037727055967399316
+categorical_distribution,Joint,cltv_bin,95,9723,,,,0.05268890622967876
+categorical_distribution,Joint,cltv_bin,"(80,95)",27993,,,,0.1516939784107166
+categorical_distribution,Joint,cltv_bin,Missing,17395,,,,0.09426344995014523
+categorical_distribution,Joint,cltv_bin,<80,70707,,,,0.3831610092339706
+categorical_distribution,Joint,cltv_bin,100,11957,,,,0.06479494515975202
+categorical_distribution,Joint,cltv_bin,"(97,100)",4727,,,,0.025615598040490746
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,>100,894,,,,0.04415032841127957
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,"(80,95)",2772,,,,0.13689564916786015
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,<80,9543,,,,0.4712825324707393
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,"(97,100)",423,,,,0.020889920489900737
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,97,252,,,,0.012445059015260013
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,"(95,97)",1328,,,,0.06558348560422737
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,80,1024,,,,0.05057039853819942
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,95,644,,,,0.03180403970566448
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,100,1208,,,,0.059657267025532125
+categorical_distribution,Native Hawaiian or Other Pacific Islander,cltv_bin,Missing,2161,,,,0.10672131957133686
+categorical_distribution,Race Not Available,cltv_bin,Missing,163035,,,,0.1278465230074339
+categorical_distribution,Race Not Available,cltv_bin,80,102327,,,,0.08024136633104356
+categorical_distribution,Race Not Available,cltv_bin,95,52252,,,,0.040974247984693075
+categorical_distribution,Race Not Available,cltv_bin,<80,569134,,,,0.4462955992597472
+categorical_distribution,Race Not Available,cltv_bin,100,50418,,,,0.03953608732473887
+categorical_distribution,Race Not Available,cltv_bin,>100,43017,,,,0.03373247388726828
+categorical_distribution,Race Not Available,cltv_bin,97,19301,,,,0.015135190238700167
+categorical_distribution,Race Not Available,cltv_bin,"(80,95)",171826,,,,0.13474012734857752
+categorical_distribution,Race Not Available,cltv_bin,"(97,100)",27419,,,,0.021501050782597786
+categorical_distribution,Race Not Available,cltv_bin,"(95,97)",76511,,,,0.059997333835199645
+categorical_distribution,White,cltv_bin,95,242970,,,,0.0453249472449476
+categorical_distribution,White,cltv_bin,"(95,97)",296900,,,,0.055385343198851474
+categorical_distribution,White,cltv_bin,<80,2574333,,,,0.4802301000779014
+categorical_distribution,White,cltv_bin,100,191383,,,,0.03570162727324282
+categorical_distribution,White,cltv_bin,Missing,529722,,,,0.0988172272481711
+categorical_distribution,White,cltv_bin,>100,182603,,,,0.03406375824903966
+categorical_distribution,White,cltv_bin,"(80,95)",702455,,,,0.13103978193583435
+categorical_distribution,White,cltv_bin,97,95551,,,,0.01782460400132522
+categorical_distribution,White,cltv_bin,80,449354,,,,0.08382494276785687
+categorical_distribution,White,cltv_bin,"(97,100)",95353,,,,0.01778766800282952

@@ -1,0 +1,70 @@
+variable,level,n_apps,share_s0_pct,n_denied,denial_rate_pct,wilson_ci_lo,wilson_ci_hi,low_n
+loan_type,1: Conventional,6398871,78.64,1668068,26.07,26.03,26.1,False
+loan_type,2: FHA,1079523,13.27,235970,21.86,21.78,21.94,False
+loan_type,3: VA,614728,7.56,93959,15.28,15.19,15.37,False
+loan_type,4: USDA/RHS,43542,0.54,5279,12.12,11.82,12.43,False
+loan_purpose,1: Home Purchase,4038224,49.63,584281,14.47,14.43,14.5,False
+loan_purpose,4: Other Purpose,1115882,13.71,475513,42.61,42.52,42.7,False
+loan_purpose,32: Cash-Out Refi,1113814,13.69,371497,33.35,33.27,33.44,False
+loan_purpose,2: Home Improvement,984874,12.1,366083,37.17,37.08,37.27,False
+loan_purpose,31: Refi (Rate/Term),882884,10.85,205273,23.25,23.16,23.34,False
+loan_purpose,5: Not Applicable,986,0.01,629,63.79,60.75,66.73,True
+lien_status,1: First Lien,5785443,71.1,1160317,20.06,20.02,20.09,False
+lien_status,2: Subordinate Lien,2351221,28.9,842959,35.85,35.79,35.91,False
+occupancy_type,1: Principal Residence,7740042,95.13,1918044,24.78,24.75,24.81,False
+occupancy_type,3: Investment Property,227653,2.8,46043,20.23,20.06,20.39,False
+occupancy_type,2: Second Residence,168969,2.08,39189,23.19,22.99,23.39,False
+construction_method,1: Site-Built,7642929,93.93,1731918,22.66,22.63,22.69,False
+construction_method,2: Manufactured Home,493735,6.07,271358,54.96,54.82,55.1,False
+total_units,1,7976409,98.03,1957926,24.55,24.52,24.58,False
+total_units,2,117082,1.44,33199,28.36,28.1,28.61,False
+total_units,3,20825,0.26,7148,34.32,33.68,34.97,False
+total_units,4,12908,0.16,4400,34.09,33.27,34.91,False
+total_units,5-24,7163,0.09,458,6.39,5.85,6.98,False
+total_units,25-49,1085,0.01,76,7.0,5.63,8.68,True
+total_units,50-99,685,0.01,37,5.4,3.94,7.36,True
+total_units,>149,288,0.0,20,6.94,4.54,10.48,True
+total_units,100-149,219,0.0,12,5.48,3.16,9.33,True
+derived_dwelling_category,Single Family (1-4 Units):Site-Built,7634006,93.82,1731347,22.68,22.65,22.71,False
+derived_dwelling_category,Single Family (1-4 Units):Manufactured,493218,6.06,271326,55.01,54.87,55.15,False
+derived_dwelling_category,Multifamily:Site-Built,8923,0.11,571,6.4,5.91,6.93,False
+derived_dwelling_category,Multifamily:Manufactured,517,0.01,32,6.19,4.42,8.61,True
+conforming_loan_limit,C,7903790,97.14,1963084,24.84,24.81,24.87,False
+conforming_loan_limit,NC,223141,2.74,39494,17.7,17.54,17.86,False
+conforming_loan_limit,NA,9440,0.12,603,6.39,5.91,6.9,False
+conforming_loan_limit,U,293,0.0,95,32.42,27.32,37.98,True
+open_end_line_of_credit,2: Not Open-End,6075726,74.67,1312410,21.6,21.57,21.63,False
+open_end_line_of_credit,1: Open-End HELOC,1811171,22.26,658207,36.34,36.27,36.41,False
+open_end_line_of_credit,1111: Exempt,249767,3.07,32659,13.08,12.94,13.21,False
+preapproval,2,7945291,97.65,2003276,25.21,25.18,25.24,False
+preapproval,1,191373,2.35,0,0.0,0.0,0.0,True
+submission_of_application,1,6630716,81.49,1725868,26.03,25.99,26.06,False
+submission_of_application,2,1255838,15.43,244754,19.49,19.42,19.56,False
+submission_of_application,1111,250110,3.07,32654,13.06,12.92,13.19,False
+aus_1,6,3397962,41.76,1325344,39.0,38.95,39.06,False
+aus_1,1,2446227,30.06,277518,11.34,11.31,11.38,False
+aus_1,2,1010237,12.42,89741,8.88,8.83,8.94,False
+aus_1,3,597981,7.35,118044,19.74,19.64,19.84,False
+aus_1,1111,251911,3.1,33067,13.13,13.0,13.26,False
+aus_1,7,206931,2.54,86421,41.76,41.55,41.98,False
+aus_1,5,194910,2.4,70335,36.09,35.87,36.3,False
+aus_1,4,30505,0.37,2806,9.2,8.88,9.53,False
+applicant_credit_score_type,1,2079054,25.55,425209,20.45,20.4,20.51,False
+applicant_credit_score_type,2,1716810,21.1,369507,21.52,21.46,21.58,False
+applicant_credit_score_type,3,1696080,20.84,278078,16.4,16.34,16.45,False
+applicant_credit_score_type,9,805529,9.9,240233,29.82,29.72,29.92,False
+applicant_credit_score_type,8,550381,6.76,290051,52.7,52.57,52.83,False
+applicant_credit_score_type,11,395501,4.86,136761,34.58,34.43,34.73,False
+applicant_credit_score_type,1111,250419,3.08,32858,13.12,12.99,13.25,False
+applicant_credit_score_type,12,217830,2.68,93084,42.73,42.52,42.94,False
+applicant_credit_score_type,7,216338,2.66,46014,21.27,21.1,21.44,False
+applicant_credit_score_type,15,91698,1.13,31377,34.22,33.91,34.53,False
+applicant_credit_score_type,6,46595,0.57,17526,37.61,37.17,38.05,False
+applicant_credit_score_type,14,43927,0.54,33072,75.29,74.88,75.69,False
+applicant_credit_score_type,4,23198,0.29,8621,37.16,36.54,37.79,False
+applicant_credit_score_type,13,2529,0.03,784,31.0,29.23,32.83,False
+applicant_credit_score_type,5,775,0.01,101,13.03,10.84,15.59,True
+lender_size_bucket,Mega,3892710,47.84,1180148,30.32,30.27,30.36,False
+lender_size_bucket,Large,2359123,28.99,505961,21.45,21.39,21.5,False
+lender_size_bucket,Medium,1486101,18.26,264598,17.8,17.74,17.87,False
+lender_size_bucket,Small/Community,398730,4.9,52569,13.18,13.08,13.29,False

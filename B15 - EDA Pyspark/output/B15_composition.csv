@@ -1,0 +1,40 @@
+﻿dimension,category,n,share_pct,is_joint_race_category
+Applicant age (source categories),35-44,1967421,24.179700673396372,False
+Applicant age (source categories),45-54,1708936,21.002907334013056,False
+Applicant age (source categories),25-34,1652643,20.311063600512448,False
+Applicant age (source categories),55-64,1350792,16.601299992232686,False
+Applicant age (source categories),65-74,788908,9.695718048576172,False
+Applicant age (source categories),>74,320593,3.9401037083502524,False
+Applicant age (source categories),<25,301615,3.706863156694193,False
+Applicant age (source categories),__NULL__,45756,0.5623434862248213,False
+Application channel,1,6630716,81.49182515094638,False
+Application channel,2,1255838,15.434310670810545,False
+Application channel,1111,250110,3.0738641782430736,False
+Co-applicant presence,0,4703963,57.81193619399794,False
+Co-applicant presence,1,3429076,42.14351237804584,False
+Co-applicant presence,__NULL__,3625,0.04455142795622383,False
+Ethnicity,Not Hispanic or Latino,5743431,70.5870489429083,False
+Ethnicity,Ethnicity Not Available,1164905,14.316739636784806,False
+Ethnicity,Hispanic or Latino,1006680,12.372146619302455,False
+Ethnicity,Joint,218234,2.6821065734064966,False
+Ethnicity,Free Form Text Only,3414,0.04195822759794432,False
+Exempt filer status,false,7895556,97.03677084367746,False
+Exempt filer status,true,241108,2.963229156322542,False
+Race,White,5360624,65.88233212038742,False
+Race,Race Not Available,1275240,15.672762203281346,False
+Race,Black or African American,733103,9.009871859032154,False
+Race,Asian,478497,5.880751620074271,False
+Race,Joint,184536,2.26795649912544,True
+Race,American Indian or Alaska Native,61397,0.7545721440629722,False
+Race,2 or more minority races,20920,0.25710782699150414,False
+Race,Native Hawaiian or Other Pacific Islander,20249,0.24886120405119347,False
+Race,Free Form Text Only,2098,0.02578452299369865,False
+Sex,Joint,2918651,35.87036407058225,False
+Sex,Male,2781384,34.18334590195687,False
+Sex,Female,1871019,22.994915360889916,False
+Sex,Sex Not Available,565610,6.951374666570969,False
+Supplementary race-ethnicity,Non-Hispanic White,4328834,53.201582368400615,False
+Supplementary race-ethnicity,Other / Not Available,1710711,21.02472217115024,False
+Supplementary race-ethnicity,Hispanic or Latino (Any Race),1006680,12.372146619302455,False
+Supplementary race-ethnicity,Non-Hispanic Black,654584,8.044869494426708,False
+Supplementary race-ethnicity,Non-Hispanic Asian,435855,5.356679346719982,False

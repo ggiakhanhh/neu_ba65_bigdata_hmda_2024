@@ -1,0 +1,11 @@
+﻿analysis_type,dimension,category,action_code,n,share_of_s0,denied_n,denial_rate
+action_taken,action_taken,1 - Originated,1.0,5793597,0.7120359154562607,0,0.0
+action_taken,action_taken,2 - Approved not accepted,2.0,339791,0.04176048070806414,0,0.0
+action_taken,action_taken,3 - Denied,3.0,2003276,0.24620360383567516,2003276,1.0
+sample_baseline,S0,All S0,,8136664,1.0,2003276,0.24620360383567516
+sample_membership,fin_complete,Included,,7037363,0.8648953674380557,1543743,0.21936384409898993
+sample_membership,fin_complete,Not included,,1099301,0.1351046325619443,459533,0.41802290728381036
+sample_membership,in_s5_all,Included,,7981245,0.9808989286026805,1944293,0.24360773287876766
+sample_membership,in_s5_all,Not included,,155419,0.01910107139731959,58983,0.37950958377032407
+sample_membership,in_s5_keep_v02,Included,,8071911,0.9920418245118638,1999367,0.24769438116946532
+sample_membership,in_s5_keep_v02,Not included,,64753,0.00795817548813617,3909,0.06036785940419749

@@ -1,0 +1,7 @@
+Audit_Dimension,Metric,Value,Benchmark_Status
+Ingest Integrity,Total Processed Applications,"12,259,199",Pass (100% Reconciled)
+Ingest Integrity,Column Completeness,101 columns,Pass
+Special Codes,Income Literal 'NA' Count,"1,780,434",Preserved as string (T02)
+Validity (V01-V05),Non-Positive Income Count,"165,254",To be flagged in cleaning (V02)
+Validity (V01-V05),Extreme/Invalid CLTV Count,"5,323",To be flagged in cleaning (V03)
+Duplicates (V10),Extra Duplicate Rows,"26,755",To be flagged in cleaning (V10)

@@ -1,0 +1,7 @@
+tract_is_na,pop_is_zero,msa_is_99999,total_rows,ffiec_income_zero_cnt,tract_to_msa_pct_zero_cnt
+False,False,False,10438933,0,53593
+False,False,True,1471022,0,4361
+True,True,True,310376,293681,310376
+True,True,False,38648,0,38648
+False,True,False,212,0,212
+False,True,True,8,0,8

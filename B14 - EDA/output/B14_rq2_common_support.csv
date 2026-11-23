@@ -1,0 +1,13 @@
+spec,group,n_group,pct_in_supported_strata,n_strata,n_strata_supported
+FIN (DTI x CLTV x income decile),Black or African American,733103,96.75366217298252,1149,742
+FIN (DTI x CLTV x income decile),Asian,478497,97.31680658394933,1149,742
+FIN (DTI x CLTV x income decile),Joint,184536,96.68519963584342,1149,742
+FIN (DTI x CLTV x income decile),American Indian or Alaska Native,61397,96.85978142254507,1149,742
+FIN (DTI x CLTV x income decile),2 or more minority races,20920,96.52485659655832,1149,742
+FIN (DTI x CLTV x income decile),Native Hawaiian or Other Pacific Islander,20249,96.47389994567634,1149,742
+PRODFIN (type x purpose x DTI x CLTV),Black or African American,733103,94.2601517112875,1629,448
+PRODFIN (type x purpose x DTI x CLTV),Asian,478497,97.90280816807629,1629,448
+PRODFIN (type x purpose x DTI x CLTV),Joint,184536,95.88481380326874,1629,448
+PRODFIN (type x purpose x DTI x CLTV),American Indian or Alaska Native,61397,94.66749189699823,1629,448
+PRODFIN (type x purpose x DTI x CLTV),2 or more minority races,20920,94.7848948374761,1629,448
+PRODFIN (type x purpose x DTI x CLTV),Native Hawaiian or Other Pacific Islander,20249,94.91826756876883,1629,448

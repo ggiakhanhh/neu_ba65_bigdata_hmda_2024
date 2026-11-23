@@ -1,0 +1,5 @@
+Step,Criteria,Applications,Excluded,Retention_of_Raw_Pct
+Raw Applications,All 2024 HMDA records,12259199,0,100.0
+Rule F01 (Decision Sample),"action_taken IN ('1','2','3')",8661779,3597420,70.66
+Rule F02 (Consumer Purpose),"business_or_commercial_purpose IN ('2','1111')",8170177,491602,66.65
+Rule F03 (Analytic Baseline S0),"reverse_mortgage IN ('2','1111')",8136664,33513,66.37

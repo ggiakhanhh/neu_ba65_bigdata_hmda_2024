@@ -1,0 +1,30 @@
+{
+  "method": "numpy.quantile linear on S0 non-null values",
+  "thresholds": {
+    "loan_amount": {
+      "p01": 15000.0,
+      "p99": 1325000.0,
+      "n_values": 8136664
+    },
+    "income": {
+      "p01": 0.0,
+      "p99": 780.0,
+      "n_values": 7839422
+    },
+    "combined_loan_to_value_ratio": {
+      "p01": 9.9,
+      "p99": 104.143,
+      "n_values": 7297403
+    },
+    "property_value": {
+      "p01": 65000.0,
+      "p99": 2405000.0,
+      "n_values": 7590865
+    },
+    "loan_to_income": {
+      "p01": 0.11627906976744186,
+      "p99": 7.0,
+      "n_values": 7748161
+    }
+  }
+}

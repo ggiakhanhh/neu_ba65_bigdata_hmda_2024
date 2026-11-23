@@ -1,0 +1,109 @@
+race,loan_type,n_originated,pricing_variable,n_nonmissing,q1,median,q3
+2 or more minority races,1,7711,interest_rate,7600,6.375,6.99,8.25
+2 or more minority races,1,7711,rate_spread,7396,-0.155,0.376,1.33
+2 or more minority races,1,7711,total_loan_costs,5431,2967.79,5358.67,8765.41
+2 or more minority races,2,2272,interest_rate,2270,5.625,6.25,6.75
+2 or more minority races,2,2272,rate_spread,2236,-0.173,0.369,0.837
+2 or more minority races,2,2272,total_loan_costs,2208,8924.57,11751.7,16127.69
+2 or more minority races,3,2050,interest_rate,2050,5.6,6.125,6.625
+2 or more minority races,3,2050,rate_spread,2028,-0.853,-0.483,-0.052
+2 or more minority races,3,2050,total_loan_costs,2033,3201.0,6257.94,11183.0
+2 or more minority races,4,60,interest_rate,49,5.99,6.375,6.75
+2 or more minority races,4,60,rate_spread,56,-1.327,0.252,0.524
+2 or more minority races,4,60,total_loan_costs,51,4286.99,6443.08,9642.97
+American Indian or Alaska Native,1,23008,interest_rate,22132,6.5,7.125,8.74
+American Indian or Alaska Native,1,23008,rate_spread,21357,-0.011,0.58,1.706
+American Indian or Alaska Native,1,23008,total_loan_costs,15301,2420.94,4561.32,7225.03
+American Indian or Alaska Native,2,7849,interest_rate,7826,5.75,6.25,6.75
+American Indian or Alaska Native,2,7849,rate_spread,7377,-0.164,0.371,0.863
+American Indian or Alaska Native,2,7849,total_loan_costs,7628,7969.64,10537.35,14344.37
+American Indian or Alaska Native,3,4610,interest_rate,4607,5.749,6.249,6.625
+American Indian or Alaska Native,3,4610,rate_spread,4553,-0.756,-0.365,0.079
+American Indian or Alaska Native,3,4610,total_loan_costs,4575,3007.29,5865.39,10331.21
+American Indian or Alaska Native,4,333,interest_rate,289,5.99,6.375,6.75
+American Indian or Alaska Native,4,333,rate_spread,315,-0.427,0.28,0.61
+American Indian or Alaska Native,4,333,total_loan_costs,287,4686.97,6085.39,7844.82
+Asian,1,319754,interest_rate,314786,6.125,6.625,7.312
+Asian,1,319754,rate_spread,302450,-0.294,0.0958,0.638
+Asian,1,319754,total_loan_costs,264104,3783.94,5650.94,8465.45
+Asian,2,23766,interest_rate,23735,5.5,6.125,6.625
+Asian,2,23766,rate_spread,23488,-0.364,0.177,0.628
+Asian,2,23766,total_loan_costs,23405,9976.2,13238.92,17964.81
+Asian,3,10982,interest_rate,10968,5.5,5.99,6.25
+Asian,3,10982,rate_spread,10626,-0.91,-0.557,-0.199
+Asian,3,10982,total_loan_costs,10913,4130.7,7625.6,13230.75
+Asian,4,325,interest_rate,232,5.624,6.125,6.625
+Asian,4,325,rate_spread,304,-5.908,-0.264,0.325
+Asian,4,325,total_loan_costs,249,2215.25,5786.74,8570.54
+Black or African American,1,247546,interest_rate,240302,6.49,7.125,8.74
+Black or African American,1,247546,rate_spread,231107,-0.06,0.58,1.678
+Black or African American,1,247546,total_loan_costs,167027,2099.45,4669.95,7746.67
+Black or African American,2,119119,interest_rate,118868,5.75,6.25,6.75
+Black or African American,2,119119,rate_spread,117574,0.0,0.462,0.92
+Black or African American,2,119119,total_loan_costs,116362,8459.6,11267.96,15477.09
+Black or African American,3,63535,interest_rate,63470,5.625,6.125,6.625
+Black or African American,3,63535,rate_spread,62935,-0.798,-0.401,0.06
+Black or African American,3,63535,total_loan_costs,63142,3309.52,6325.62,11054.01
+Black or African American,4,2728,interest_rate,2319,5.75,6.375,6.75
+Black or African American,4,2728,rate_spread,2597,-0.832,0.096,0.576
+Black or African American,4,2728,total_loan_costs,2404,4414.58,6175.39,8347.27
+Free Form Text Only,1,697,interest_rate,693,6.375,6.99,7.74
+Free Form Text Only,1,697,rate_spread,641,-0.057,0.567,1.79
+Free Form Text Only,1,697,total_loan_costs,365,2039.98,4088.88,6458.72
+Free Form Text Only,2,113,interest_rate,113,4.99,5.5,6.625
+Free Form Text Only,2,113,rate_spread,113,-0.925,-0.547,0.576
+Free Form Text Only,2,113,total_loan_costs,112,8762.61,11119.13,15237.77
+Free Form Text Only,3,17,interest_rate,17,4.99,5.99,6.25
+Free Form Text Only,3,17,rate_spread,17,-1.833,-0.795,-0.093
+Free Form Text Only,3,17,total_loan_costs,17,4448.43,7150.26,13544.73
+Free Form Text Only,4,2,interest_rate,2,4.99,4.99,5.95
+Free Form Text Only,4,2,rate_spread,2,-1.457,-1.457,-0.262
+Free Form Text Only,4,2,total_loan_costs,2,5231.97,5231.97,5369.0
+Joint,1,100598,interest_rate,97923,6.375,6.99,7.875
+Joint,1,100598,rate_spread,95004,-0.145,0.309,0.975
+Joint,1,100598,total_loan_costs,73834,3174.85,5329.25,8335.28
+Joint,2,22174,interest_rate,22114,5.75,6.25,6.75
+Joint,2,22174,rate_spread,21698,-0.042,0.428,0.888
+Joint,2,22174,total_loan_costs,21628,9068.88,12051.25,16122.7
+Joint,3,18494,interest_rate,18460,5.625,6.125,6.5
+Joint,3,18494,rate_spread,18146,-0.824,-0.464,-0.069
+Joint,3,18494,total_loan_costs,18388,3903.46,7516.21,13143.45
+Joint,4,893,interest_rate,816,5.99,6.375,6.75
+Joint,4,893,rate_spread,849,-0.311,0.204,0.581
+Joint,4,893,total_loan_costs,817,5012.22,6484.62,8515.44
+Native Hawaiian or Other Pacific Islander,1,7586,interest_rate,7424,6.5,7.375,8.975
+Native Hawaiian or Other Pacific Islander,1,7586,rate_spread,7169,-0.019,0.593,1.819
+Native Hawaiian or Other Pacific Islander,1,7586,total_loan_costs,4612,2005.5,4751.7,8373.78
+Native Hawaiian or Other Pacific Islander,2,2030,interest_rate,2025,5.75,6.25,6.75
+Native Hawaiian or Other Pacific Islander,2,2030,rate_spread,2004,-0.038,0.395,0.857
+Native Hawaiian or Other Pacific Islander,2,2030,total_loan_costs,1979,9502.94,13275.47,17827.44
+Native Hawaiian or Other Pacific Islander,3,1861,interest_rate,1861,5.625,6.125,6.625
+Native Hawaiian or Other Pacific Islander,3,1861,rate_spread,1834,-0.843,-0.462,-0.013
+Native Hawaiian or Other Pacific Islander,3,1861,total_loan_costs,1851,3803.89,7086.94,12517.51
+Native Hawaiian or Other Pacific Islander,4,44,interest_rate,40,5.75,6.375,6.625
+Native Hawaiian or Other Pacific Islander,4,44,rate_spread,42,-0.614,0.217,0.415
+Native Hawaiian or Other Pacific Islander,4,44,total_loan_costs,42,5174.06,6143.42,8999.0
+Race Not Available,1,608540,interest_rate,560200,6.466,6.99,8.2
+Race Not Available,1,608540,rate_spread,536057,-0.106,0.375,1.207
+Race Not Available,1,608540,total_loan_costs,413474,3229.36,5319.95,8428.14
+Race Not Available,2,125287,interest_rate,125144,5.75,6.25,6.75
+Race Not Available,2,125287,rate_spread,122830,-0.044,0.396,0.842
+Race Not Available,2,125287,total_loan_costs,122922,9111.26,12249.15,16577.61
+Race Not Available,3,92883,interest_rate,92815,5.625,6.124,6.5
+Race Not Available,3,92883,rate_spread,91666,-0.834,-0.463,-0.046
+Race Not Available,3,92883,total_loan_costs,92400,3830.28,6996.09,12216.48
+Race Not Available,4,2843,interest_rate,2385,5.875,6.375,6.75
+Race Not Available,4,2843,rate_spread,2688,-0.538,0.184,0.61
+Race Not Available,4,2843,total_loan_costs,2474,4524.44,6389.68,8571.4
+White,1,3145910,interest_rate,2995818,6.5,7.0,8.24
+White,1,3145910,rate_spread,2894114,-0.081,0.375,1.118
+White,1,3145910,total_loan_costs,2100855,2720.35,4657.6,7324.25
+White,2,503235,interest_rate,501701,5.875,6.25,6.75
+White,2,503235,rate_spread,494992,0.079,0.507,0.933
+White,2,503235,total_loan_costs,491118,8365.31,11124.75,15001.3
+White,3,295691,interest_rate,295075,5.75,6.125,6.625
+White,3,295691,rate_spread,289986,-0.738,-0.372,0.038
+White,3,295691,total_loan_costs,293502,3692.55,6808.23,11690.4
+White,4,29051,interest_rate,26973,6.0,6.5,6.75
+White,4,29051,rate_spread,27554,-0.084,0.302,0.661
+White,4,29051,total_loan_costs,26937,4754.25,6205.18,7983.75

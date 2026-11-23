@@ -1,0 +1,9 @@
+action_taken,action_label,total_apps,app_age_8888_count,share_of_all_app_8888_pct,coapp_age_8888_count,share_of_all_coapp_8888_pct,coapp_age_9999_count,share_of_all_coapp_9999_pct
+1,1 - Loan originated,6197085,188669,12.89,63829,5.41,3402056,51.03
+2,2 - Application approved but not accepted,361232,7932,0.54,2555,0.22,231660,3.48
+3,3 - Application denied,2103462,30811,2.11,10629,0.9,1423392,21.35
+4,4 - Application withdrawn by applicant,1538273,45958,3.14,23681,2.01,931647,13.98
+5,5 - File closed for incompleteness,581940,4084,0.28,1562,0.13,390817,5.86
+6,6 - Loan purchased by institution,1276504,1185349,80.98,1076382,91.3,164455,2.47
+7,7 - Preapproval request denied,47312,343,0.02,92,0.01,30766,0.46
+8,8 - Preapproval request approved but not accepted,153391,538,0.04,225,0.02,91609,1.37

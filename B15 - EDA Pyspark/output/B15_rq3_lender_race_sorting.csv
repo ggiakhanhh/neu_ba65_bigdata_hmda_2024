@@ -1,0 +1,19 @@
+﻿race_group,lender_denial_band,n_apps,n_denied,race_total_apps,race_share_pct,denial_rate_pct,is_headline_race
+2 or more minority races,Higher denial-rate lenders,11686,6542,20920,55.8604206500956,55.98151634434366,True
+2 or more minority races,Lower denial-rate lenders,9234,1446,20920,44.139579349904395,15.659519168291098,True
+American Indian or Alaska Native,Lower denial-rate lenders,26878,3963,61397,43.77738325976839,14.744400625046506,True
+American Indian or Alaska Native,Higher denial-rate lenders,34519,18824,61397,56.222616740231615,54.53228656681828,True
+Asian,Higher denial-rate lenders,202150,78093,478497,42.246868841392946,38.63121444471927,True
+Asian,Lower denial-rate lenders,276347,26057,478497,57.753131158607054,9.42908734308677,True
+Black or African American,Higher denial-rate lenders,394439,212448,733103,53.804035722129086,53.86079976878554,True
+Black or African American,Lower denial-rate lenders,338664,57310,733103,46.195964277870914,16.922377341553872,True
+Free Form Text Only,Lower denial-rate lenders,334,72,2098,15.919923736892278,21.55688622754491,False
+Free Form Text Only,Higher denial-rate lenders,1764,1152,2098,84.08007626310771,65.3061224489796,False
+Joint,Higher denial-rate lenders,85283,28611,184536,46.21483071053887,33.54830388236812,True
+Joint,Lower denial-rate lenders,99253,7527,184536,53.78516928946113,7.5836498644877235,True
+Native Hawaiian or Other Pacific Islander,Higher denial-rate lenders,12214,6715,20249,60.31902810015309,54.977894219747824,True
+Native Hawaiian or Other Pacific Islander,Lower denial-rate lenders,8035,1159,20249,39.68097189984691,14.424393279402615,True
+Race Not Available,Lower denial-rate lenders,655551,78471,1275240,51.40608826573821,11.970235725366905,False
+Race Not Available,Higher denial-rate lenders,619689,299756,1275240,48.59391173426179,48.372005957827234,False
+White,Lower denial-rate lenders,2777666,253945,5360624,51.816094544217236,9.142387889688681,True
+White,Higher denial-rate lenders,2582958,921185,5360624,48.183905455782764,35.66395582119415,True

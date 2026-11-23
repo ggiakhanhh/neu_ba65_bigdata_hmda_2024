@@ -1,0 +1,8 @@
+missing_variable,closest_public_proxy,limitation_for_interpretation,evidence
+Credit score value,"applicant_credit_score_type, co_applicant_credit_score_type (scoring model type only)","Main underwriting variable unobserved; correlated with income and race, so a remaining gap may reflect it","[Verified: B06 schema, no matching field]"
+Assets and reserves,"income, property_value, loan_amount (weak proxies)",Cash to close and reserves cannot be assessed (denial reason 5 exists only after denial),"[Verified: B06 schema, no matching field]"
+AUS recommendation/result,"aus_1..aus_5 (system used, not result)","Automated underwriting outcome is a major decision input, not available","[Verified: B06 schema, no matching field]"
+Application and decision dates,activity_year only,"No time ordering: no chronological split, rate-lock timing or seasonality","[Verified: B06 schema, no matching field]"
+Employment history / income documentation,income (as reported),Income verification quality unobserved,"[Verified: B06 schema, no matching field]"
+"Lender identity details (type, name)","lei (20-char ID), lender_size_bucket, lender_n_apps",Bank / credit union / independent mortgage company not identifiable; LEI mapping is out of scope (D-O),"[Verified: B06 schema, no matching field]"
+Loan officer / broker detail,submission_of_application (channel flag),Origination channel and officer effects unobserved,"[Verified: B06 schema, no matching field]"

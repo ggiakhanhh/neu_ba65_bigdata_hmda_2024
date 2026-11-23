@@ -1,0 +1,10 @@
+variable,n_valid,auc,auc_oriented,direction
+dti_mid,461808,0.6825380308544452,0.6825380308544452,higher -> more denial
+loan_amount,500002,0.3456231406209966,0.6543768593790034,higher -> less denial
+income,476312,0.357954678896735,0.6420453211032651,higher -> less denial
+ltv_calc,466609,0.41479468147992654,0.5852053185200734,higher -> less denial
+property_value,466609,0.4319517889317309,0.5680482110682691,higher -> less denial
+combined_loan_to_value_ratio,448655,0.4331748762935721,0.5668251237064279,higher -> less denial
+loan_to_income,476312,0.4514749829911607,0.5485250170088394,higher -> less denial
+tract_minority_population_percent,494161,0.5478703156894039,0.5478703156894039,higher -> more denial
+tract_to_msa_income_percentage,494161,0.45623144345219735,0.5437685565478027,higher -> less denial

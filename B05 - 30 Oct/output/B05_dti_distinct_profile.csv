@@ -1,0 +1,22 @@
+raw_dti_value,raw_count,raw_share_pct,dti_type
+NA,4060236,33.1199,Sentinel
+30%-<36%,1097751,8.9545,Binned Range
+20%-<30%,1070929,8.7357,Binned Range
+50%-60%,825620,6.7347,Binned Range
+>60%,621916,5.0731,Binned Range
+<20%,462987,3.7766,Binned Range
+49,400057,3.2633,Point (Single Integer)
+44,331700,2.7057,Point (Single Integer)
+42,315076,2.5701,Point (Single Integer)
+Exempt,287240,2.3431,Sentinel
+43,284023,2.3168,Point (Single Integer)
+41,277569,2.2642,Point (Single Integer)
+48,268367,2.1891,Point (Single Integer)
+40,266771,2.1761,Point (Single Integer)
+39,256892,2.0955,Point (Single Integer)
+47,251920,2.0549,Point (Single Integer)
+45,251378,2.0505,Point (Single Integer)
+46,244506,1.9945,Point (Single Integer)
+38,239524,1.9538,Point (Single Integer)
+37,228026,1.86,Point (Single Integer)
+36,216711,1.7677,Point (Single Integer)

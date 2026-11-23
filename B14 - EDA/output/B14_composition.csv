@@ -1,0 +1,38 @@
+dimension,level,n_apps,share_s0_pct,n_denied,denial_rate_pct,wilson_ci_lo,wilson_ci_hi,low_n
+derived_race,2 or more minority races,20920,0.257,7988,38.18,37.53,38.84,False
+derived_race,American Indian or Alaska Native,61397,0.755,22787,37.11,36.73,37.5,False
+derived_race,Asian,478497,5.881,104150,21.77,21.65,21.88,False
+derived_race,Black or African American,733103,9.01,269758,36.8,36.69,36.91,False
+derived_race,Free Form Text Only,2098,0.026,1224,58.34,56.22,60.43,False
+derived_race,Joint,184536,2.268,36138,19.58,19.4,19.76,False
+derived_race,Native Hawaiian or Other Pacific Islander,20249,0.249,7874,38.89,38.22,39.56,False
+derived_race,Race Not Available,1275240,15.673,378227,29.66,29.58,29.74,False
+derived_race,White,5360624,65.882,1175130,21.92,21.89,21.96,False
+race_ethnicity,Hispanic or Latino (Any Race),1006680,12.372,309279,30.72,30.63,30.81,False
+race_ethnicity,Non-Hispanic Asian,435855,5.357,91574,21.01,20.89,21.13,False
+race_ethnicity,Non-Hispanic Black,654584,8.045,237062,36.22,36.1,36.33,False
+race_ethnicity,Non-Hispanic White,4328834,53.202,896724,20.72,20.68,20.75,False
+race_ethnicity,Other / Not Available,1710711,21.025,468637,27.39,27.33,27.46,False
+derived_ethnicity,Ethnicity Not Available,1164905,14.317,337660,28.99,28.9,29.07,False
+derived_ethnicity,Free Form Text Only,3414,0.042,1648,48.27,46.6,49.95,False
+derived_ethnicity,Hispanic or Latino,1006680,12.372,309279,30.72,30.63,30.81,False
+derived_ethnicity,Joint,218234,2.682,45369,20.79,20.62,20.96,False
+derived_ethnicity,Not Hispanic or Latino,5743431,70.587,1309320,22.8,22.76,22.83,False
+derived_sex,Female,1871019,22.995,553302,29.57,29.51,29.64,False
+derived_sex,Joint,2918651,35.87,537573,18.42,18.37,18.46,False
+derived_sex,Male,2781384,34.183,741985,26.68,26.62,26.73,False
+derived_sex,Sex Not Available,565610,6.951,170416,30.13,30.01,30.25,False
+applicant_age,25-34,1652643,20.311,304787,18.44,18.38,18.5,False
+applicant_age,35-44,1967421,24.18,465360,23.65,23.59,23.71,False
+applicant_age,45-54,1708936,21.003,462145,27.04,26.98,27.11,False
+applicant_age,55-64,1350792,16.601,379197,28.07,28.0,28.15,False
+applicant_age,65-74,788908,9.696,227298,28.81,28.71,28.91,False
+applicant_age,<25,301615,3.707,60043,19.91,19.77,20.05,False
+applicant_age,>74,320593,3.94,101872,31.78,31.62,31.94,False
+applicant_age,NULL / Missing,45756,0.562,2574,5.63,5.42,5.84,False
+has_coapplicant,0,4703963,57.812,1348057,28.66,28.62,28.7,False
+has_coapplicant,1,3429076,42.144,654943,19.1,19.06,19.14,False
+has_coapplicant,NULL / Missing,3625,0.045,276,7.61,6.79,8.52,False
+submission_of_application,1,6630716,81.492,1725868,26.03,25.99,26.06,False
+submission_of_application,1111,250110,3.074,32654,13.06,12.92,13.19,False
+submission_of_application,2,1255838,15.434,244754,19.49,19.42,19.56,False

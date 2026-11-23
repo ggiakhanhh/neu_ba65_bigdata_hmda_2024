@@ -1,0 +1,13 @@
+flag_or_tail,category,n_rows_s0,pct_of_s0,n_denied,denial_rate_pct,pct_black_in_slice
+V01: flag_loan_amount_invalid (<=0),Rule Violation Flag,0,0.0,0,,
+V02: flag_income_nonpositive (<=0),Rule Violation Flag,91261,1.1216,55207,60.49,10.34
+V02a: flag_income_zero (==0),Rule Violation Sub-flag,84356,1.0367,48612,57.63,10.48
+V02b: flag_income_negative (<0),Rule Violation Sub-flag,6905,0.0849,6595,95.51,8.59
+V03: flag_cltv_range (<=0 or >200),Rule Violation Flag,4026,0.0495,3896,96.77,21.81
+"V04: flag_rate_range (<=0 or >25, originated/appr)",Post-Decision Rate Flag,60717,0.7462,0,0.0,14.87
+V05: flag_term_range (<1 or >480),Rule Violation Flag,18,0.0002,13,72.22,16.67
+V09: |CLTV - ltv_calc| > 10pp (First Lien),Diagnostic Discrepancy,100268,1.2323,35811,35.72,14.89
+"S4 Tail: loan_amount > p99 ($1,325,000)",Genuine High Tail (>p99),80011,0.9833,11168,13.96,1.98
+S4 Tail: income > p99 ($780k),Genuine High Tail (>p99),78067,0.9594,14727,18.86,3.27
+"S4 Tail: property_value > p99 ($2,405,000)",Genuine High Tail (>p99),74778,0.919,18148,24.27,1.75
+S4 Tail: CLTV > p99 (104.14%),Genuine High Tail (>p99),72952,0.8966,51141,70.1,16.65

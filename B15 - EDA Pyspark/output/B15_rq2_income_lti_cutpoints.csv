@@ -1,0 +1,19 @@
+variable,bin,upper_boundary,method,relative_error
+income,D01,45.0,Spark approxQuantile,0.001
+income,D02,61.0,Spark approxQuantile,0.001
+income,D03,75.0,Spark approxQuantile,0.001
+income,D04,89.0,Spark approxQuantile,0.001
+income,D05,104.0,Spark approxQuantile,0.001
+income,D06,123.0,Spark approxQuantile,0.001
+income,D07,147.0,Spark approxQuantile,0.001
+income,D08,183.0,Spark approxQuantile,0.001
+income,D09,256.0,Spark approxQuantile,0.001
+loan_to_income,D01,0.4197080291970803,Spark approxQuantile,0.001
+loan_to_income,D02,0.6944444444444444,Spark approxQuantile,0.001
+loan_to_income,D03,1.05,Spark approxQuantile,0.001
+loan_to_income,D04,1.5124555160142348,Spark approxQuantile,0.001
+loan_to_income,D05,1.9950738916256157,Spark approxQuantile,0.001
+loan_to_income,D06,2.4583333333333335,Spark approxQuantile,0.001
+loan_to_income,D07,2.92,Spark approxQuantile,0.001
+loan_to_income,D08,3.4444444444444446,Spark approxQuantile,0.001
+loan_to_income,D09,4.166666666666667,Spark approxQuantile,0.001

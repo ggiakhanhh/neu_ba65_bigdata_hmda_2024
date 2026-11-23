@@ -1,0 +1,10 @@
+metric,value
+n_lenders,4808.0
+median_apps_per_lender,165.5
+p90_apps,2171.3
+p99_apps,24584.050000000665
+top10_share_pct,22.365922938442584
+top100_share_pct,61.31187179414069
+top1pct_lenders_share_pct,50.601696223415395
+hhi_national,100.43107168577514
+gini_approx,0.8783492162865955

@@ -1,0 +1,24 @@
+segment,level,n_originated,n_rate_usable,pct_rate_missing,pct_rate_v04,rate_p25,rate_median,rate_p75,pct_cost_missing,pct_cost_zero_of_valid,cost_median,rate_iqr,low_n,low_n_rate
+loan_type x lien_status x open_end_line_of_credit,3: VA | 1: First Lien | 2: Not Open-End,489325,489281,0.0022479946865580137,0.0067439840596740415,5.74,6.125,6.625,0.5121340622285753,1.8370277248833755,6810.17,0.8849999999999998,False,False
+loan_type x lien_status x open_end_line_of_credit,3: VA | 1: First Lien | 1: Open-End HELOC,4,4,0.0,0.0,6.0,6.125,6.46875,100.0,,,0.46875,True,True
+loan_type x lien_status x open_end_line_of_credit,3: VA | 1: First Lien | 1111: Exempt,788,0,100.0,0.0,,,,100.0,,,,True,True
+loan_type x lien_status x open_end_line_of_credit,3: VA | 2: Subordinate Lien | 2: Not Open-End,2,1,0.0,50.0,3.75,3.75,3.75,0.0,0.0,75.0,0.0,True,True
+loan_type x lien_status x open_end_line_of_credit,3: VA | 2: Subordinate Lien | 1: Open-End HELOC,3,3,0.0,0.0,9.75,10.0,10.0,100.0,,,0.25,True,True
+loan_type x lien_status x open_end_line_of_credit,3: VA | 2: Subordinate Lien | 1111: Exempt,1,0,100.0,0.0,,,,100.0,,,,True,True
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 1: First Lien | 2: Not Open-End,803341,803184,0.007219848109333397,0.01232353384179321,5.75,6.25,6.75,2.048943101372891,0.09937970290298025,11398.28,1.0,False,False
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 1: First Lien | 1: Open-End HELOC,12,12,0.0,0.0,6.21875,6.75,7.40625,100.0,,,1.1875,True,True
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 1: First Lien | 1111: Exempt,1960,0,100.0,0.0,,,,100.0,,,,False,True
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 2: Subordinate Lien | 2: Not Open-End,514,425,2.7237354085603114,14.591439688715955,6.95,7.95,9.75,6.420233463035019,10.187110187110187,1265.2,2.8,True,True
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 2: Subordinate Lien | 1: Open-End HELOC,1,1,0.0,0.0,7.54,7.54,7.54,100.0,,,0.0,True,True
+loan_type x lien_status x open_end_line_of_credit,2: FHA | 2: Subordinate Lien | 1111: Exempt,17,0,100.0,0.0,,,,100.0,,,,True,True
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 1: First Lien | 2: Not Open-End,2683010,2680650,0.053633791897905715,0.03432711767753382,6.25,6.625,7.125,3.622573154777653,2.1253252358249775,5490.49,0.875,False,False
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 1: First Lien | 1: Open-End HELOC,212752,210555,0.2900090245920133,0.7426487177558848,7.49,8.26,8.9,100.0,,,1.4100000000000001,False,False
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 1: First Lien | 1111: Exempt,161363,352,99.78185829465242,0.0,7.5,7.995,8.65,99.94298569064779,4.3478260869565215,4047.425,1.1500000000000004,False,True
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 2: Subordinate Lien | 2: Not Open-End,517968,462222,1.278843480678343,9.483597442313037,7.575,8.59,9.56,11.367690668149388,39.406256330499446,248.0,1.9850000000000003,False,False
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 2: Subordinate Lien | 1: Open-End HELOC,842976,834957,0.18363512128459172,0.7676375128117526,7.5,8.54,9.7,100.0,,,2.1999999999999993,False,False
+loan_type x lien_status x open_end_line_of_credit,1: Conventional | 2: Subordinate Lien | 1111: Exempt,43281,48,99.88909683232828,0.0,7.365,7.8100000000000005,8.8125,99.98151613872139,12.5,1426.49,1.4474999999999998,False,True
+loan_type x lien_status x open_end_line_of_credit,4: USDA/RHS | 1: First Lien | 2: Not Open-End,32024,31998,0.03747189607794155,0.0437172120909318,6.0,6.49,6.75,2.0390956782413205,0.09244206432692614,6394.19,0.75,False,False
+loan_type x lien_status x open_end_line_of_credit,4: USDA/RHS | 1: First Lien | 1111: Exempt,391,0,100.0,0.0,,,,100.0,,,,True,True
+loan_type x lien_status x open_end_line_of_credit,4: USDA/RHS | 2: Subordinate Lien | 2: Not Open-End,3862,1090,71.72449508026929,0.05178663904712584,6.0,6.875,8.99,51.00983946141895,72.25158562367865,0.0,2.99,False,False
+loan_type x lien_status x open_end_line_of_credit,4: USDA/RHS | 2: Subordinate Lien | 1: Open-End HELOC,1,1,0.0,0.0,8.95,8.95,8.95,100.0,,,0.0,True,True
+loan_type x lien_status x open_end_line_of_credit,4: USDA/RHS | 2: Subordinate Lien | 1111: Exempt,1,0,100.0,0.0,,,,100.0,,,,True,True

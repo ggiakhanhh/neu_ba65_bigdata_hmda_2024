@@ -1,0 +1,13 @@
+key,affected_raw,affected_s0,is_zero
+X05:invalid,0,0,True
+T08:applicant_age_invalid,0,0,True
+T08:applicant_age_blank,0,0,True
+T08:co_applicant_age_invalid,0,0,True
+T12.1:anomaly_nonzero_on_tract_na,0,0,True
+T12.2:anomaly_ffiec_zero_elsewhere,0,0,True
+T12.5:minority_out_of_range,0,0,True
+T05:length_violations,0,0,True
+V06,0,0,True
+V07,0,0,True
+V08,0,0,True
+V01,0,0,True

@@ -1,0 +1,8 @@
+Field,Official Codes Count,Observed Distinct Count,Undocumented Codes,Status
+action_taken,8,8,None (100% Valid),PASS
+loan_type,4,4,None (100% Valid),PASS
+loan_purpose,6,6,None (100% Valid),PASS
+lien_status,2,2,None (100% Valid),PASS
+occupancy_type,3,3,None (100% Valid),PASS
+reverse_mortgage,3,3,None (100% Valid),PASS
+business_or_commercial_purpose,3,3,None (100% Valid),PASS

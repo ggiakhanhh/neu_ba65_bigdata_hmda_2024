@@ -1,0 +1,6 @@
+Rule ID,Condition,Affected Rows,Action
+V01,loan_amount <= 0,0,Flag only (do not delete)
+V02,income <= 0 ($000s),165254,Flag only (do not delete)
+V03,CLTV <= 0 or > 200,5323,Flag only (do not delete)
+V04,interest_rate <= 0 or > 25%,83443,Flag only (do not delete)
+V05,"loan_term outside [1, 480] mo",2893,Flag only (do not delete)

@@ -1,0 +1,12 @@
+sample_specification,total_apps,denied_apps,denial_rate_pct
+All S0 (Baseline),8136664,2003276,24.62
+Flag V01 (loan_amount <= 0),0,0,
+Flag V02 (income <= 0: All),91261,55207,60.49
+  -> V02_neg (income < 0),6905,6595,95.51
+  -> V02_zero (income = 0),84356,48612,57.63
+Flag V03 (CLTV <= 0 or > 200),4026,3896,96.77
+Flag V04 (interest_rate <= 0: 0 denied),60717,0,0.0
+Flag V05 (loan_term < 1 or > 480 mo),18,13,72.22
+"Robustness S5_all (Exclude V01,V02,V03,V05; KEEP V04)",8041498,1944293,24.18
+"Robustness S5_keep_v02 (Exclude V01,V03,V05; KEEP V02 & V04)",8132620,1999367,24.58
+[Diagnostic Only] Old S5_all (mistakenly excluded V04),7981245,1944293,24.36

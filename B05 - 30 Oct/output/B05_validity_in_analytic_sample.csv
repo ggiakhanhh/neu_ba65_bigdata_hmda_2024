@@ -1,0 +1,6 @@
+Rule_ID,Field,Condition,Raw_Count,S0_Count
+V01,loan_amount,<= 0,0,0
+V02,income,<= 0,165254,91261
+V03,combined_loan_to_value_ratio,<= 0 or > 200,5323,4026
+V04,interest_rate,<= 0 or > 25,83443,60717
+V05,loan_term,< 1 or > 480,2893,18

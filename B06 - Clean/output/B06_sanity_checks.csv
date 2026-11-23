@@ -1,0 +1,13 @@
+check,passed
+clean_all rows == raw rows,True
+analytic rows == S0 rows,True
+identical column names,True
+row_id unique in clean_all,True
+no NA/Exempt/blank tokens left in lei,True
+no NA/Exempt/blank tokens left in state_code,True
+no NA/Exempt/blank tokens left in county_code,True
+no NA/Exempt/blank tokens left in census_tract,True
+no NA/Exempt/blank tokens left in derived_msa_md,True
+"V09 first-lien count == B05 (5,033,106)",True
+V09 first-lien median within 0.001 of B05 (0.755),True
+V09 first-lien p95 within 0.001 of B05 (4.710),True

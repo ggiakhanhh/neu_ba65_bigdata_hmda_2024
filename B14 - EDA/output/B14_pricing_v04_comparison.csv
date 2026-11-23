@@ -1,0 +1,3 @@
+slice,n_loans,mean_rate,sd_rate,p05,p50,p95
+Originated: All Reported Rates (Keep V04),5573102,7.0505455526024745,1.693928232873232,5.125,6.75,10.05
+Originated: Exclude V04 (0 < rate <= 25%),5514784,7.125103996874576,1.538993011684085,5.25,6.79,10.09

@@ -1,0 +1,9 @@
+metric,value
+n_lenders_all,4808.0
+n_lenders_ge_N_MIN_APPS,862.0
+overall_rna_share_pct,15.672762203281344
+median_lender_rna_share_pct,12.493931053253087
+p90_lender_rna_share_pct,23.042562835377883
+n_lenders_rna_share_gt_50pct,3.0
+top10_share_of_all_rna_pct,30.07363319845676
+top100_share_of_all_rna_pct,67.1959003795364

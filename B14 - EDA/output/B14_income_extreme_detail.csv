@@ -1,0 +1,11 @@
+metric,value
+n_rows,1000.0
+pct_of_s0,0.012290049091372091
+denial_rate_pct,31.6
+n_distinct_income_values,880.0
+share_at_most_common_value_pct,1.6
+n_lenders,237.0
+top_lender_share_pct,9.5
+pct_exempt_filers,5.2
+median_loan_amount,720000.0
+median_loan_to_income,0.04191672564385793

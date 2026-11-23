@@ -1,0 +1,5 @@
+loan_type,loan_type_label,total_first_lien_apps,within_rounding_cnt,within_rounding_pct,below_min_1pp_cnt,below_min_1pp_pct,above_max_1pp_cnt,above_max_1pp_pct
+1,1 - Conventional,3496495,2138833,61.17,165820,4.74,219663,6.28
+2,2 - FHA,1030900,491808,47.71,203583,19.75,90717,8.8
+3,3 - VA,468830,312921,66.75,70192,14.97,15680,3.34
+4,4 - USDA/RHS,36881,27266,73.93,3286,8.91,2985,8.09

@@ -1,0 +1,8 @@
+column_name,min_val,max_val,neg_raw_cnt,zero_raw_cnt,zero_tract_na_cnt,zero_pop_zero_cnt,zero_pop_pos_cnt,zero_msa_99999_cnt,s0_tract_na_or_neg_cnt
+tract_population,0.0,37892.0,0,349244,349024,220,0,310384,96065
+tract_minority_population_percent,0.0,100.0,0,349456,349024,220,212,310588,96065
+ffiec_msa_md_median_family_income,0.0,201300.0,0,293681,293681,0,0,293681,63462
+tract_to_msa_income_percentage,0.0,516.0,0,407198,349024,220,57954,314745,96065
+tract_owner_occupied_units,0.0,6276.0,0,352239,349024,220,2995,310421,96065
+tract_one_to_four_family_homes,0.0,8233.0,0,352604,349024,219,3361,310598,96065
+tract_median_age_of_housing_units,-1.0,80.0,204,851400,349024,220,502156,339726,96225

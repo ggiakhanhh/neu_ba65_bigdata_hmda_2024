@@ -1,0 +1,5 @@
+Item,Finding,Artifact
+clean_all (PySpark),"12,259,199 rows x 169 cols",B07_clean_all.parquet
+analytic (S0 PySpark),"8,136,664 rows; denial rate 24.62%",B07_analytic.parquet
+Golden verification vs B05/B06,48 / 48 metrics matched exactly,B07_golden_verification.csv
+Execution Engine,Apache Spark (PySpark 4.2.0),JVM Catalyst Optimizer

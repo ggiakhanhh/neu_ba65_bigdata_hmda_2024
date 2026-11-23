@@ -1,0 +1,27 @@
+record_type,category,n,share,denied_n,denial_rate,mean_dup_group_size,median_dup_group_size,max_dup_group_size
+duplicate_status,Original duplicate,3835,0.00047132338265411965,2261.0,0.5895697522816167,2.173142112125163,2.0,29.0
+duplicate_status,Non-duplicate,8128330,0.9989757473087251,1998618.0,0.24588297965264697,1.0,1.0,1.0
+duplicate_status,Extra duplicate,4499,0.0005529293086208304,2397.0,0.5327850633474105,2.8228495221160257,2.0,29.0
+race_mix_among_extras,White,1995,0.44343187374972215,1477.0,0.7403508771929824,,,
+race_mix_among_extras,American Indian or Alaska Native,39,0.00866859302067126,35.0,0.8974358974358975,,,
+race_mix_among_extras,Native Hawaiian or Other Pacific Islander,6,0.0013336296954878863,3.0,0.5,,,
+race_mix_among_extras,2 or more minority races,6,0.0013336296954878863,5.0,0.8333333333333334,,,
+race_mix_among_extras,Joint,37,0.008224049788841965,24.0,0.6486486486486487,,,
+race_mix_among_extras,Black or African American,450,0.10002222716159147,345.0,0.7666666666666667,,,
+race_mix_among_extras,Race Not Available,1814,0.40320071126917095,411.0,0.22657111356119075,,,
+race_mix_among_extras,Asian,152,0.03378528561902645,97.0,0.6381578947368421,,,
+duplicate_group_size,7,21,2.580910309188139e-06,,,,,
+duplicate_group_size,11,22,2.70381080010186e-06,,,,,
+duplicate_group_size,8,56,6.882427491168371e-06,,,,,
+duplicate_group_size,5,130,1.5977063818783716e-05,,,,,
+duplicate_group_size,2,6950,0.0008541584118503603,,,,,
+duplicate_group_size,12,12,1.474805890964651e-06,,,,,
+duplicate_group_size,10,30,3.6870147274116273e-06,,,,,
+duplicate_group_size,1,8128330,0.9989757473087251,,,,,
+duplicate_group_size,3,732,8.99631593488437e-05,,,,,
+duplicate_group_size,6,66,8.11143240030558e-06,,,,,
+duplicate_group_size,9,18,2.2122088364469764e-06,,,,,
+duplicate_group_size,4,232,2.851291389198325e-05,,,,,
+duplicate_group_size,29,29,3.564114236497906e-06,,,,,
+duplicate_group_size,14,14,1.7206068727920927e-06,,,,,
+duplicate_group_size,22,22,2.70381080010186e-06,,,,,

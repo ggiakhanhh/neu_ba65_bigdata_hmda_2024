@@ -1,0 +1,8 @@
+Item,Finding,Artifact
+clean_all,"12,259,199 rows x 169 cols (raw rows kept)",B06_clean_all.parquet
+analytic (S0),"8,136,664 rows; denial rate 24.62%",B06_analytic.parquet
+Golden verification vs B05,48 / 48 metrics matched,B06_golden_verification.csv
+Expected-zero checks,12 / 12 are zero,B06_expected_zero_checks.csv
+Duplicates (V10),"20,229 clusters, 26,755 extra copies",B06_dup_table.csv
+S5 samples,"S5_all 8,041,498 rows; S5_keep_v02 8,132,620 rows",B06_rule_ledger.csv
+Pipeline time,"17.0 min (Pandas, chunk 250,000 rows)",-

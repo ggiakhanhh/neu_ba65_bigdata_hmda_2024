@@ -1,0 +1,5 @@
+check,passed
+clean_all rows == raw rows,True
+analytic rows == S0 rows,True
+169 columns matching B06,True
+Golden metrics 100% matched,True

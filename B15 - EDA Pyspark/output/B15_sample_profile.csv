@@ -1,0 +1,2 @@
+﻿sample_name,sample_rows,target_rows,sampling_seed,stratification,method_note
+B14-style stratified diagnostic sample,499297,500000,42,derived_race x is_denied,Spark sampleBy; row_ids persisted in B15_sample_row_ids.parquet

@@ -1,0 +1,4 @@
+open_end_line_of_credit,n_originated,n_rate_missing,n_rate_v04,n_cost_valid,n_cost_missing,share_of_all_cost_missing_pct,share_of_all_rate_unusable_pct
+2: Not Open-End,4530046,10928,50267,4352349,177697,12.330239503506926,21.948402692844308
+1: Open-End HELOC,1055749,2165,8051,0,1055749,73.2575002706176,3.664104614921112
+1111: Exempt,207802,207402,0,100,207702,14.412260225875482,74.38749269223457

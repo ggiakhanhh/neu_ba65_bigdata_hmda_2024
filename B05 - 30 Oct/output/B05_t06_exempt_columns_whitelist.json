@@ -1,0 +1,20 @@
+{
+  "rule_id": "T06",
+  "columns": [
+    "aus_1",
+    "manufactured_home_land_property_interest",
+    "balloon_payment",
+    "negative_amortization",
+    "other_nonamortizing_features",
+    "interest_only_payment",
+    "manufactured_home_secured_property_type",
+    "reverse_mortgage",
+    "applicant_credit_score_type",
+    "co_applicant_credit_score_type",
+    "submission_of_application",
+    "initially_payable_to_institution",
+    "business_or_commercial_purpose",
+    "open_end_line_of_credit",
+    "denial_reason_1"
+  ]
+}

@@ -1,0 +1,7 @@
+sample_name,n_applications,retention_vs_s0_pct,n_originated_1,n_approved_not_acc_2,n_denied_3,pct_originated_1,pct_approved_not_acc_2,denial_rate_pct,wilson_95_ci_lo,wilson_95_ci_hi
+F01: All Decided Applications (Pre-F02/F03),8661779,106.45,6197085,361232,2103462,71.55,4.17,24.28,24.256,24.313
+S0: Analytic Baseline (F01-F03),8136664,100.0,5793597,339791,2003276,71.2,4.18,24.62,24.591,24.65
+"S5_keep_v02: Exclude V01, V03, V05 (Keep V02)",8132620,99.95,5793494,339759,1999367,71.24,4.18,24.58,24.555,24.614
+"S5_all: Exclude V01, V02, V03, V05 (Drop income<=0)",8041498,98.83,5761480,335725,1944293,71.65,4.17,24.18,24.149,24.208
+"fin_complete: Complete DTI, CLTV, Income, Loan Amt",7037363,86.49,5233206,260414,1543743,74.36,3.7,21.94,21.906,21.967
+RQ3 Sample: fin_complete & Valid Census Tract (D-I),7002807,86.06,5227733,255514,1519560,74.65,3.65,21.7,21.669,21.73
