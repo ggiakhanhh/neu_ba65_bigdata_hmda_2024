@@ -1,0 +1,4 @@
+comparison,grouping_columns,pandas_groups,spark_groups,unmatched_keys,application_count_mismatches,denied_count_mismatches,max_absolute_rate_difference,max_absolute_gap_difference_pp,passed,sample,shared_sample_path
+benchmark_25%,derived_race | loan_type,35,35,0,0,0,0.0,,True,25%,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_25pct.csv
+benchmark_50%,derived_race | loan_type,36,36,0,0,0,0.0,,True,50%,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_50pct.csv
+benchmark_100%,derived_race | loan_type,36,36,0,0,0,0.0,,True,100%,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_100pct.csv

@@ -1,0 +1,4 @@
+sample,csv_rows,parquet_rows,csv_groups,parquet_groups,csv_size_bytes,passed,csv_path
+25%,2034125,2034125,102,102,41058913,True,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_25pct.csv
+50%,4068306,4068306,104,104,82119430,True,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_50pct.csv
+100%,8136664,8136664,106,106,164240393,True,D:\H-NEU\004\44 - Big Data\Final project\B16 - Pandas Spark Compare\output\benchmark_data\B06_canonical_csv\sample_100pct.csv

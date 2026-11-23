@@ -1,0 +1,8 @@
+comparison,grouping_columns,pandas_groups,spark_groups,unmatched_keys,application_count_mismatches,denied_count_mismatches,max_absolute_rate_difference,max_absolute_gap_difference_pp,passed
+overall,overall,1,1,0,0,0,0.0,,True
+by_race,derived_race,9,9,0,0,0,0.0,0.0,True
+race_x_loan_type,derived_race | loan_type,36,36,0,0,0,0.0,,True
+race_x_dti,derived_race | dti_bin_coarse,81,81,0,0,0,0.0,,True
+race_x_state,derived_race | state_code,485,485,0,0,0,0.0,,True
+race_x_lender_size,derived_race | lender_size_bucket,36,36,0,0,0,0.0,,True
+race_x_lender,derived_race | lei,24778,24778,0,0,0,0.0,,True

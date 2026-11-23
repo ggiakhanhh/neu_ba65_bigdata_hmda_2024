@@ -1,0 +1,2 @@
+canonical_source,source_path,observed_s0_rows,profiled_b06_s0_rows,workload_group_count,row_count_matches_b06_profile,agree
+B06,D:\H-NEU\004\44 - Big Data\Final project\B06 - Clean\output\B06_analytic.parquet,8136664,8136664,106,True,True

@@ -1,0 +1,9 @@
+metric,pandas_B06,pyspark_B07,difference_B06_minus_B07,agree
+total_rows,8136664,8136664,0,True
+s0_rows,8136664,8136664,0,True
+outside_s0_rows,0,0,0,True
+denied_rows,2003276,2003276,0,True
+null_denied_n,0,0,0,True
+invalid_denied_n,0,0,0,True
+outcome_mismatch_n,0,0,0,True
+null_action_n,0,0,0,True

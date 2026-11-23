@@ -1,0 +1,37 @@
+derived_race,loan_type,pandas_rows,pyspark_rows,_merge,difference,agree
+2 or more minority races,1,14975,14975,both,0,True
+2 or more minority races,2,3217,3217,both,0,True
+2 or more minority races,3,2641,2641,both,0,True
+2 or more minority races,4,87,87,both,0,True
+American Indian or Alaska Native,1,44290,44290,both,0,True
+American Indian or Alaska Native,2,10633,10633,both,0,True
+American Indian or Alaska Native,3,6041,6041,both,0,True
+American Indian or Alaska Native,4,433,433,both,0,True
+Asian,1,433642,433642,both,0,True
+Asian,2,31209,31209,both,0,True
+Asian,3,13250,13250,both,0,True
+Asian,4,396,396,both,0,True
+Black or African American,1,472793,472793,both,0,True
+Black or African American,2,171378,171378,both,0,True
+Black or African American,3,85419,85419,both,0,True
+Black or African American,4,3513,3513,both,0,True
+Free Form Text Only,1,1903,1903,both,0,True
+Free Form Text Only,2,167,167,both,0,True
+Free Form Text Only,3,25,25,both,0,True
+Free Form Text Only,4,3,3,both,0,True
+Joint,1,134641,134641,both,0,True
+Joint,2,26931,26931,both,0,True
+Joint,3,21910,21910,both,0,True
+Joint,4,1054,1054,both,0,True
+Native Hawaiian or Other Pacific Islander,1,14966,14966,both,0,True
+Native Hawaiian or Other Pacific Islander,2,2848,2848,both,0,True
+Native Hawaiian or Other Pacific Islander,3,2376,2376,both,0,True
+Native Hawaiian or Other Pacific Islander,4,59,59,both,0,True
+Race Not Available,1,956400,956400,both,0,True
+Race Not Available,2,190693,190693,both,0,True
+Race Not Available,3,124666,124666,both,0,True
+Race Not Available,4,3481,3481,both,0,True
+White,1,4325261,4325261,both,0,True
+White,2,642447,642447,both,0,True
+White,3,358400,358400,both,0,True
+White,4,34516,34516,both,0,True

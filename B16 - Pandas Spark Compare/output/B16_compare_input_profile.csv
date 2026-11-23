@@ -1,0 +1,3 @@
+engine,input_path,total_rows,s0_rows,outside_s0_rows,denied_rows,null_denied_n,invalid_denied_n,outcome_mismatch_n,null_action_n,denial_rate
+pandas_B06,D:\H-NEU\004\44 - Big Data\Final project\B06 - Clean\output\B06_analytic.parquet,8136664,8136664,0,2003276,0,0,0,0,0.24620360383567516
+pyspark_B07,D:\H-NEU\004\44 - Big Data\Final project\B07 - Spark Clean\output\B07_analytic.parquet,8136664,8136664,0,2003276,0,0,0,0,0.24620360383567516
