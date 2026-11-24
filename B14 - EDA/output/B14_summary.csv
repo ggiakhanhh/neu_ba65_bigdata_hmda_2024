@@ -3,5 +3,5 @@ Frame,"S0 8,136,664 rows; denial rate 24.62%",B14_frame_profile.csv
 Headline raw gap,Black or African American: +14.88 pp (cluster CI 12.94 to 16.99),B14_rq1_raw_gap.csv
 Sample sensitivity,Black or African American gap 13.39 to 15.57 pp over 12 samples,B14_rq4_sample_sensitivity.csv
 Lender dispersion,phi = 2015 over 731 lenders passing D-M,B14_rq3_lender_funnel.csv
-Artifacts,"73 tables, 36 figures logged this run",B14_summary.csv
+Artifacts,"75 tables, 36 figures logged this run",B14_summary.csv
 Findings,19 findings,B14_eda_findings.csv

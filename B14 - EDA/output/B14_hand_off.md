@@ -1,4 +1,4 @@
-# B14 Hand-off: Design for the Sequential Decomposition (run 2026-11-18)
+# B14 Hand-off: Design for the Sequential Decomposition (run 2026-11-24)
 
 ## Reference groups and metrics
 - Reference: White (D-J). Headline groups: Black or African American, Asian, Joint, American Indian or Alaska Native, 2 or more minority races, Native Hawaiian or Other Pacific Islander. `Race Not Available` / `Free Form Text Only` kept in accounting, excluded from headline gaps (D-L).
