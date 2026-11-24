@@ -11,7 +11,7 @@ Not stored in this repo. Run `python scripts/download_data.py` (writes `data/raw
 ## Environment
 
 Python 3.13, Java <version> (PySpark). `pip install -r requirements.txt`.
-Windows + PySpark also needs `hadoop/bin/winutils.exe` and `hadoop.dll` (not included; see B07).
+Windows + PySpark also needs `hadoop/bin/winutils.exe` and `hadoop.dll` (Hadoop (bundled with Spark) 3.5.0).
 Optional: set `HMDA_ROOT` to the project root; otherwise notebooks locate the folder containing `origin/`.
 
 ## Run order
